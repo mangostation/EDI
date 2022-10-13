@@ -1,0 +1,8 @@
+wineglass 504 2 638 187
+wineglass 427 0 502 105
+fork 0 111 79 310
+knife 61 122 112 275
+pizza 101 91 572 442
+pizza 160 2 432 98
+diningtable 0 1 640 479
+book 0 4 94 56

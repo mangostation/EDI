@@ -1,0 +1,4 @@
+teddybear 52 66 274 392
+teddybear 196 161 371 392
+bird 332 148 544 293
+teddybear 0 0 198 230

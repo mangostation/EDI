@@ -1,0 +1,5 @@
+person 90 142 161 322
+person 430 121 499 332
+tennisracket 0 78 93 265
+person 71 40 477 328
+chair 51 253 104 326

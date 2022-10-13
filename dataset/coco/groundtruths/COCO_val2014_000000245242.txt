@@ -1,0 +1,5 @@
+knife 179 57 639 234
+carrot 181 209 310 320
+sandwich 182 112 317 203
+carrot 370 157 468 321
+sandwich 55 192 139 331

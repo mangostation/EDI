@@ -1,0 +1,14 @@
+cat 376 123 484 346
+person 186 77 358 251
+teddybear 100 128 144 157
+teddybear 96 121 188 193
+teddybear 138 218 205 304
+teddybear 184 263 259 350
+teddybear 347 144 413 209
+teddybear 354 62 409 147
+teddybear 195 140 239 211
+teddybear 167 116 207 162
+teddybear 281 13 335 93
+teddybear 326 273 377 344
+teddybear 19 111 112 214
+teddybear 161 152 353 192

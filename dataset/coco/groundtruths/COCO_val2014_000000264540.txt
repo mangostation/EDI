@@ -1,0 +1,8 @@
+broccoli 134 145 285 302
+broccoli 0 133 101 332
+broccoli 92 121 171 177
+broccoli 67 86 142 147
+broccoli 88 310 160 379
+zebra 146 271 225 389
+broccoli 267 175 298 196
+broccoli 187 131 241 163

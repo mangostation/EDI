@@ -1,0 +1,5 @@
+car 0 205 62 265
+motorcycle 290 219 314 255
+person 280 177 327 257
+trafficlight 183 118 194 146
+clock 489 116 498 127

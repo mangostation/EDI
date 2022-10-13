@@ -1,0 +1,4 @@
+person 17 53 302 354
+giraffe 224 17 589 284
+person 0 53 68 295
+person 594 103 639 354

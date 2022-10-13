@@ -1,0 +1,4 @@
+person 334 86 402 194
+snowboard 336 178 367 199
+person 210 145 214 152
+person 7 281 10 297

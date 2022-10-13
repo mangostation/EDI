@@ -1,0 +1,6 @@
+umbrella 152 14 213 280
+chair 65 191 146 273
+chair 236 165 326 238
+chair 23 287 132 387
+diningtable 60 208 310 334
+chair 349 52 461 176

@@ -1,0 +1,4 @@
+cup 97 17 203 209
+pizza 1 208 374 450
+chair 130 1 330 79
+diningtable 0 85 375 499

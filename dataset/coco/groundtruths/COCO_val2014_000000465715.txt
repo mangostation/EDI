@@ -1,0 +1,16 @@
+horse 87 81 112 100
+person 77 75 85 107
+person 404 70 410 105
+person 436 79 451 92
+person 407 46 413 55
+person 334 66 337 74
+horse 138 73 157 88
+person 480 35 483 42
+person 473 37 479 46
+person 129 77 139 93
+person 457 40 466 52
+person 433 72 441 79
+person 416 68 435 114
+person 408 72 413 90
+person 362 72 368 78
+person 263 48 421 82

@@ -1,0 +1,9 @@
+bottle 191 84 268 330
+bottle 316 116 395 182
+wineglass 302 145 423 342
+wineglass 246 127 341 241
+cup 222 241 338 389
+bottle 158 74 205 301
+chair 2 3 171 231
+bottle 249 99 325 154
+diningtable 13 263 639 479

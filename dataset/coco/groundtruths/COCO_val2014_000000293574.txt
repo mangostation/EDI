@@ -1,0 +1,10 @@
+pottedplant 170 124 498 458
+wineglass 110 81 178 231
+wineglass 147 67 212 203
+wineglass 585 88 639 228
+wineglass 523 75 585 233
+wineglass 346 53 400 130
+vase 230 346 400 456
+vase 25 330 157 459
+wineglass 392 53 459 144
+cup 497 359 610 464

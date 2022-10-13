@@ -1,0 +1,4 @@
+clock 492 33 575 115
+trafficlight 531 288 560 379
+person 358 223 378 251
+person 439 258 457 277

@@ -1,0 +1,12 @@
+bicycle 288 213 347 257
+bicycle 306 212 328 239
+person 215 187 232 245
+person 332 189 340 198
+person 273 188 284 223
+person 306 189 318 206
+trafficlight 378 179 394 202
+trafficlight 186 126 199 173
+trafficlight 367 159 374 177
+person 289 188 305 217
+pottedplant 38 241 63 270
+person 402 184 413 205

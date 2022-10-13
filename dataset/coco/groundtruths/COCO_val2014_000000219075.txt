@@ -1,0 +1,5 @@
+refrigerator 189 147 340 479
+tv 0 375 44 468
+diningtable 510 361 639 479
+sink 552 293 572 296
+person 336 98 475 473

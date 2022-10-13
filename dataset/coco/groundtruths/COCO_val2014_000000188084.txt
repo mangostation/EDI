@@ -1,0 +1,4 @@
+cup 54 146 286 434
+hotdog 179 376 577 558
+sandwich 173 376 575 560
+diningtable 3 3 639 372

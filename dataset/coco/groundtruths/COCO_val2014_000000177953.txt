@@ -1,0 +1,8 @@
+umbrella 304 66 535 249
+umbrella 25 25 303 177
+person 367 159 497 352
+person 212 325 532 473
+person 30 188 215 433
+person 27 401 168 477
+umbrella 181 1 320 125
+person 169 427 339 479

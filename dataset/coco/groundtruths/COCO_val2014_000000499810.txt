@@ -1,0 +1,9 @@
+person 208 1 452 454
+person 0 1 194 399
+person 465 0 531 136
+person 509 3 568 131
+suitcase 153 39 483 216
+backpack 495 23 639 327
+suitcase 52 65 104 158
+person 159 0 260 83
+person 446 0 471 67

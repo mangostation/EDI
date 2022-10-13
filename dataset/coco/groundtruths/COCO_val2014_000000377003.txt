@@ -1,0 +1,5 @@
+pottedplant 144 311 193 405
+chair 32 358 310 625
+couch 265 313 479 508
+remote 213 397 231 407
+pottedplant 90 329 153 381

@@ -1,0 +1,4 @@
+person 181 2 460 420
+snowboard 459 107 639 426
+handbag 255 134 458 368
+backpack 256 138 460 373

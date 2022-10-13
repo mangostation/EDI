@@ -1,0 +1,7 @@
+diningtable 2 412 458 632
+person 30 34 474 425
+cup 405 423 479 597
+spoon 91 447 122 462
+bowl 105 416 299 597
+wineglass 0 270 51 570
+chair 427 215 458 246

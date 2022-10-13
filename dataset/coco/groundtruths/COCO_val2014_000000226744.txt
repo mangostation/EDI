@@ -1,0 +1,8 @@
+sportsball 198 1 340 116
+sportsball 164 117 314 259
+sportsball 320 52 466 189
+sportsball 334 159 499 324
+sportsball 289 310 449 426
+sportsball 140 246 307 408
+sportsball 271 194 363 337
+baseballglove 94 0 563 419

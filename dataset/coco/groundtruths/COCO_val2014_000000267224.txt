@@ -1,0 +1,4 @@
+trafficlight 466 117 487 161
+trafficlight 447 173 464 192
+trafficlight 177 161 193 182
+truck 116 176 560 397

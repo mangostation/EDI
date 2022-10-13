@@ -1,0 +1,6 @@
+person 71 23 378 473
+person 601 119 639 386
+frisbee 232 251 391 368
+person 268 77 314 126
+diningtable 435 131 572 165
+diningtable 226 115 363 145

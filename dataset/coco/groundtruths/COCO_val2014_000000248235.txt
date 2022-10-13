@@ -1,0 +1,4 @@
+chair 352 238 410 479
+person 10 93 394 472
+cake 72 375 240 472
+diningtable 1 266 363 474

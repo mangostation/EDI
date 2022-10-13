@@ -1,0 +1,5 @@
+bottle 264 323 277 369
+toothbrush 157 32 171 64
+sink 0 226 211 354
+hairdrier 139 48 167 86
+toothbrush 168 45 173 63

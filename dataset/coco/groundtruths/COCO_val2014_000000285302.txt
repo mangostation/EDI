@@ -1,0 +1,5 @@
+chair 193 6 368 223
+person 14 28 299 534
+scissors 123 282 219 354
+chair 0 164 330 639
+diningtable 203 242 425 613

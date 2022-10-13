@@ -1,0 +1,2 @@
+trafficlight 197 266 251 412
+trafficlight 405 546 425 576

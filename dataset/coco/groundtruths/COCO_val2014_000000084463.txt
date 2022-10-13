@@ -1,0 +1,4 @@
+person 8 2 498 327
+wineglass 40 120 200 332
+wineglass 183 113 294 332
+wineglass 281 160 403 286

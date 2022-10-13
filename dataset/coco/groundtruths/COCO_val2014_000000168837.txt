@@ -1,0 +1,7 @@
+bottle 127 105 150 142
+chair 0 155 100 251
+chair 161 158 276 245
+bed 3 49 639 399
+diningtable 70 185 212 251
+wineglass 172 170 184 202
+wineglass 184 153 201 200

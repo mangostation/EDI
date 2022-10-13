@@ -1,0 +1,6 @@
+sportsball 109 438 128 455
+tennisracket 114 361 148 488
+person 20 87 50 136
+person 72 112 98 147
+person 132 143 418 523
+person 109 75 148 139

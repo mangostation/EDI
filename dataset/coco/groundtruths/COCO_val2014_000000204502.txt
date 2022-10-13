@@ -1,0 +1,4 @@
+bottle 45 19 200 587
+wineglass 209 187 359 579
+cup 359 342 428 482
+diningtable 0 435 480 638

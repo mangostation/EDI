@@ -1,0 +1,4 @@
+bird 318 225 327 231
+trafficlight 282 220 353 279
+trafficlight 495 294 543 409
+trafficlight 588 376 639 477

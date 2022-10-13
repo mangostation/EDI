@@ -1,0 +1,6 @@
+chair 249 103 344 143
+motorcycle 1 89 564 459
+motorcycle 361 0 554 190
+chair 112 81 170 162
+chair 0 81 314 221
+motorcycle 499 64 639 164

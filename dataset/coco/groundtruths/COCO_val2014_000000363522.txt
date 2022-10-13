@@ -1,0 +1,14 @@
+person 93 97 226 367
+person 252 63 308 177
+person 205 69 267 196
+handbag 296 133 316 145
+person 172 0 225 106
+person 145 75 219 201
+person 98 85 138 150
+person 40 50 86 127
+person 0 14 46 190
+person 35 104 103 225
+handbag 67 143 108 204
+skateboard 86 327 226 380
+person 382 1 426 132
+person 304 1 379 138

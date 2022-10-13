@@ -1,0 +1,4 @@
+firehydrant 122 399 224 593
+person 278 200 333 415
+pottedplant 32 269 152 472
+person 406 180 479 483

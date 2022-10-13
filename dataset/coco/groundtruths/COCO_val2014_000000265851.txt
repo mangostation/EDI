@@ -1,0 +1,4 @@
+chair 55 218 317 580
+teddybear 15 166 391 627
+handbag 209 1 273 152
+handbag 233 175 313 267

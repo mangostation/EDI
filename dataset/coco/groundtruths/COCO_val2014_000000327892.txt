@@ -1,0 +1,9 @@
+bottle 387 27 410 66
+cellphone 115 67 148 94
+cup 338 36 377 71
+laptop 202 76 412 326
+laptop 437 5 639 262
+laptop 35 110 180 272
+keyboard 210 219 404 278
+person 0 74 276 327
+person 490 193 639 332

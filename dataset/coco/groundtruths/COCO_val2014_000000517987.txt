@@ -1,0 +1,5 @@
+person 5 21 403 630
+skateboard 12 459 426 607
+clock 303 344 318 351
+backpack 109 193 269 420
+cup 2 267 66 349

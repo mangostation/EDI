@@ -1,0 +1,6 @@
+person 201 171 272 260
+person 410 116 425 151
+bench 165 143 221 155
+surfboard 224 249 258 275
+surfboard 396 126 430 141
+person 79 46 88 62

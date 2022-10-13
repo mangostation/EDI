@@ -1,0 +1,7 @@
+elephant 440 105 539 159
+elephant 157 119 236 160
+elephant 212 111 293 153
+elephant 74 107 169 160
+elephant 5 104 89 153
+bird 400 137 405 151
+bird 389 140 395 150

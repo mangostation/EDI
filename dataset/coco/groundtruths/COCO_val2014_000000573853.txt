@@ -1,0 +1,2 @@
+diningtable 1 0 639 473
+pizza 40 85 637 473

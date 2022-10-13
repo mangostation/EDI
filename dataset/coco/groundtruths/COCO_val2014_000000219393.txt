@@ -1,0 +1,13 @@
+person 394 102 448 276
+person 517 83 587 274
+person 42 63 193 333
+person 104 71 152 285
+tennisracket 342 191 412 227
+tennisracket 506 224 531 276
+tennisracket 106 72 132 114
+tennisracket 211 154 276 178
+person 168 91 225 284
+tennisracket 183 182 208 209
+tennisracket 174 116 194 155
+person 201 75 263 279
+car 242 87 385 156

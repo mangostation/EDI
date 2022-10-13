@@ -1,0 +1,6 @@
+diningtable 2 1 628 506
+sandwich 335 289 576 474
+cup 287 31 407 273
+spoon 0 164 58 270
+spoon 480 259 596 289
+bowl 9 197 289 435

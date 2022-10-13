@@ -1,0 +1,6 @@
+refrigerator 110 81 318 422
+microwave 312 203 389 244
+oven 371 190 550 454
+spoon 576 177 588 193
+chair 624 355 639 416
+microwave 393 82 546 172

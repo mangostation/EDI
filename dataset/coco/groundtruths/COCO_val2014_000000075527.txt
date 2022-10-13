@@ -1,0 +1,6 @@
+chair 37 254 123 389
+person 107 73 443 471
+knife 245 284 355 337
+pizza 257 333 399 391
+pizza 186 294 370 386
+refrigerator 0 236 51 419

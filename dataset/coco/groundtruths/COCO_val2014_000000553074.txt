@@ -1,0 +1,6 @@
+chair 134 0 480 148
+chair 534 0 638 103
+person 149 68 440 313
+person 465 1 557 152
+skateboard 289 246 555 348
+person 545 0 627 107

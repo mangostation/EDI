@@ -1,0 +1,7 @@
+bicycle 40 234 342 416
+bicycle 383 228 521 399
+person 462 18 495 84
+person 217 27 268 61
+person 164 35 177 68
+boat 159 81 492 172
+boat 0 65 640 324

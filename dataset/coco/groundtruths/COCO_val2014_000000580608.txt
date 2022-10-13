@@ -1,0 +1,2 @@
+bottle 162 247 262 589
+pottedplant 29 63 383 586

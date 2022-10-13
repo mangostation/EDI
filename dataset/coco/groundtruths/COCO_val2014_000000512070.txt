@@ -1,0 +1,5 @@
+cellphone 400 233 499 329
+cellphone 349 202 479 281
+cellphone 185 68 306 296
+person 12 53 346 333
+keyboard 3 35 499 182

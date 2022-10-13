@@ -1,0 +1,2 @@
+person 165 175 323 514
+tennisracket 169 110 224 253

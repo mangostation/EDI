@@ -1,0 +1,5 @@
+trafficlight 295 276 324 356
+trafficlight 452 202 501 310
+trafficlight 33 92 88 222
+trafficlight 338 319 368 354
+trafficlight 336 163 368 214

@@ -1,0 +1,2 @@
+refrigerator 111 4 598 478
+person 572 66 622 359

@@ -1,0 +1,4 @@
+pottedplant 267 250 293 301
+pottedplant 55 255 66 287
+skateboard 146 446 314 487
+person 6 114 282 464

@@ -1,0 +1,12 @@
+tie 474 4 572 225
+tie 331 3 401 200
+tie 22 24 39 29
+cellphone 239 54 282 90
+person 236 0 560 214
+laptop 1 45 290 203
+laptop 0 31 98 165
+person 0 0 219 170
+person 253 274 639 426
+laptop 91 52 330 268
+laptop 59 144 386 421
+person 314 0 639 313

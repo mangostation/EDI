@@ -1,0 +1,5 @@
+train 135 175 472 313
+trafficlight 53 70 97 161
+person 415 214 446 236
+person 288 218 298 231
+person 323 226 329 233

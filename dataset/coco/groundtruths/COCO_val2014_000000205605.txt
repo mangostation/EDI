@@ -1,0 +1,3 @@
+bottle 139 44 252 495
+wineglass 234 243 381 581
+microwave 225 37 479 488

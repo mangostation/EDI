@@ -1,0 +1,6 @@
+laptop 70 0 424 193
+laptop 92 0 639 480
+laptop 0 0 139 109
+keyboard 208 175 634 472
+keyboard 0 338 157 479
+keyboard 19 0 143 52

@@ -1,0 +1,17 @@
+chair 17 165 201 393
+couch 212 68 639 478
+person 117 3 575 472
+person 0 120 164 363
+person 0 159 35 242
+pottedplant 335 173 397 242
+chair 188 235 258 329
+pottedplant 486 94 503 135
+remote 113 366 209 403
+microwave 199 171 233 202
+clock 63 95 74 118
+pottedplant 113 115 144 141
+pottedplant 262 120 285 144
+pottedplant 229 126 255 145
+remote 151 435 183 457
+diningtable 0 239 50 286
+diningtable 189 242 258 290

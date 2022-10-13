@@ -1,0 +1,4 @@
+pottedplant 348 285 479 529
+person 224 235 336 539
+cellphone 251 254 258 263
+bench 1 356 374 497

@@ -1,0 +1,8 @@
+cellphone 293 209 405 329
+cellphone 319 357 387 470
+cellphone 169 297 243 427
+person 185 7 378 449
+person 295 116 498 450
+person 365 42 639 477
+person 0 69 278 477
+cellphone 234 92 292 194

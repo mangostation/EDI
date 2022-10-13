@@ -1,0 +1,5 @@
+pottedplant 181 348 297 553
+couch 247 273 606 608
+chair 5 313 111 451
+pottedplant 90 292 186 382
+vase 207 491 250 550

@@ -1,0 +1,3 @@
+sink 415 203 471 207
+pottedplant 0 16 126 368
+pottedplant 415 102 467 201

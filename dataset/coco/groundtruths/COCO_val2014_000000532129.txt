@@ -1,0 +1,4 @@
+diningtable 0 0 639 422
+cup 591 0 639 145
+pizza 49 41 587 393
+bowl 28 0 212 30

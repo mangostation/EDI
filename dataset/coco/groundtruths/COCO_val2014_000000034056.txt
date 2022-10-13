@@ -1,0 +1,5 @@
+refrigerator 102 140 243 372
+person 128 34 422 628
+pizza 65 364 213 432
+bottle 0 383 28 458
+oven 103 267 165 353

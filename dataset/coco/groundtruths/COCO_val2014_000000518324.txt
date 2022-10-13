@@ -1,0 +1,13 @@
+cat 149 51 366 356
+bottle 364 120 409 308
+bottle 223 0 252 55
+cellphone 100 1 145 26
+laptop 47 5 226 235
+mouse 102 240 165 277
+remote 109 15 178 40
+scissors 309 181 372 306
+chair 0 246 41 309
+couch 250 0 499 355
+pottedplant 0 0 62 125
+book 432 31 495 66
+cup 303 117 409 316

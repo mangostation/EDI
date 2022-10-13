@@ -1,0 +1,8 @@
+bottle 14 0 80 159
+bottle 57 2 91 106
+bottle 0 106 34 195
+wineglass 327 39 388 156
+pizza 345 139 619 319
+pizza 2 143 380 345
+oven 3 263 639 466
+bottle 0 0 35 146

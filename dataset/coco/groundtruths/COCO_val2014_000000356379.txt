@@ -1,0 +1,10 @@
+bench 116 121 287 251
+bench 401 115 438 157
+bench 462 111 482 136
+pottedplant 253 82 400 138
+pottedplant 409 99 433 126
+pottedplant 467 106 476 120
+pottedplant 481 109 486 118
+pottedplant 485 108 490 118
+pottedplant 454 105 464 120
+pottedplant 476 108 481 117

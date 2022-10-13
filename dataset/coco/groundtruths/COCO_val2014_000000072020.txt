@@ -1,0 +1,7 @@
+broccoli 116 241 207 325
+broccoli 194 294 231 343
+broccoli 93 309 192 376
+broccoli 170 209 253 302
+chair 67 0 458 48
+bowl 24 173 475 549
+handbag 361 0 451 48

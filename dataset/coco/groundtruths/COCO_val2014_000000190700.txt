@@ -1,0 +1,3 @@
+teddybear 142 72 344 178
+teddybear 117 189 253 292
+couch 0 256 499 327

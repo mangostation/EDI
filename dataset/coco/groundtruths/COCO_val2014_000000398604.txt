@@ -1,0 +1,4 @@
+diningtable 0 83 640 441
+hotdog 125 158 314 344
+wineglass 442 18 619 275
+bowl 59 114 454 439

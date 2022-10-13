@@ -1,0 +1,10 @@
+bus 73 15 517 337
+person 535 239 586 331
+person 14 252 28 309
+person 56 242 70 298
+person 24 249 45 309
+handbag 539 289 555 302
+person 24 244 35 269
+person 0 244 14 307
+handbag 63 266 75 281
+person 34 247 60 312

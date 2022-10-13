@@ -1,0 +1,2 @@
+motorcycle 90 271 232 512
+person 67 172 221 483

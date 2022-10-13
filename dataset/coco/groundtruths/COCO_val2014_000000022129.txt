@@ -1,0 +1,7 @@
+cat 285 123 365 265
+person 50 0 292 209
+bench 185 0 639 480
+backpack 419 0 639 185
+backpack 60 40 235 144
+person 51 2 229 138
+person 3 0 69 108

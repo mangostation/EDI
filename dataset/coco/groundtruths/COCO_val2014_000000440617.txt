@@ -1,0 +1,2 @@
+train 60 190 420 323
+trafficlight 0 124 21 193

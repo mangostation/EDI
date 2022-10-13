@@ -1,0 +1,5 @@
+toilet 198 239 285 339
+sink 329 185 414 215
+pottedplant 302 124 360 182
+pottedplant 365 132 418 178
+bottle 257 152 280 197

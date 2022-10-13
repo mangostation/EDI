@@ -1,0 +1,5 @@
+person 120 136 298 629
+baseballglove 211 418 280 503
+bowl 273 135 315 155
+clock 204 108 227 134
+person 111 98 140 138

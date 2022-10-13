@@ -1,0 +1,3 @@
+giraffe 2 98 434 420
+giraffe 112 188 420 426
+giraffe 310 2 495 426

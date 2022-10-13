@@ -1,0 +1,3 @@
+pottedplant 2 15 412 418
+teddybear 339 110 545 399
+vase 209 307 413 421

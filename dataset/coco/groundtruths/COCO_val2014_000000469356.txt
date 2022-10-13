@@ -1,0 +1,5 @@
+cup 172 1 306 95
+sandwich 104 205 418 470
+diningtable 481 199 639 354
+sandwich 1 160 341 457
+sandwich 425 24 620 151

@@ -1,0 +1,6 @@
+pottedplant 316 187 390 256
+pottedplant 562 159 612 199
+pottedplant 32 162 84 196
+couch 56 192 625 259
+bowl 384 247 405 256
+bowl 421 262 446 272

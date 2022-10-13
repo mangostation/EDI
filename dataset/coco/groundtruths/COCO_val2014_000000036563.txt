@@ -1,0 +1,12 @@
+cellphone 79 145 91 173
+cellphone 317 96 324 100
+cellphone 338 119 351 122
+cellphone 361 136 368 138
+person 448 48 562 323
+person 408 81 474 315
+person 283 56 340 274
+person 72 77 258 448
+person 340 68 426 297
+cellphone 453 96 474 109
+cellphone 405 143 415 147
+person 312 66 379 287

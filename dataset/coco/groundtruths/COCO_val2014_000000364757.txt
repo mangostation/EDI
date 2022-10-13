@@ -1,0 +1,2 @@
+trafficlight 510 229 570 358
+trafficlight 80 241 143 362

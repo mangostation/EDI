@@ -1,0 +1,5 @@
+person 299 333 338 482
+person 193 302 236 482
+sink 187 519 364 567
+pottedplant 0 282 40 435
+sink 0 506 77 562

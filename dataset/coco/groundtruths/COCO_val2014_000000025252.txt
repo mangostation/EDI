@@ -1,0 +1,4 @@
+pottedplant 431 553 479 593
+pottedplant 272 533 314 557
+pottedplant 151 539 183 557
+clock 289 318 350 395

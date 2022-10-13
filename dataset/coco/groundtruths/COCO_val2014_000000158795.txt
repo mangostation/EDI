@@ -1,0 +1,4 @@
+bicycle 66 257 185 353
+bicycle 268 283 364 376
+person 276 223 347 313
+backpack 320 231 343 257

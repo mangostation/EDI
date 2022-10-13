@@ -1,0 +1,16 @@
+pottedplant 96 1 273 71
+pottedplant 479 34 498 53
+pottedplant 549 20 576 48
+pottedplant 580 8 607 54
+pottedplant 501 30 523 42
+pottedplant 58 0 122 21
+cat 287 152 352 250
+cat 390 103 450 127
+couch 528 51 639 421
+couch 293 35 639 220
+chair 0 111 175 328
+diningtable 1 120 168 334
+chair 0 21 107 113
+pottedplant 512 0 552 37
+vase 219 32 251 68
+vase 134 33 147 56

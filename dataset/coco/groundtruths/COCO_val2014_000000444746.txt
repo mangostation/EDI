@@ -1,0 +1,14 @@
+person 75 128 391 368
+cellphone 40 2 373 370
+cellphone 371 182 480 334
+cellphone 384 137 486 240
+cellphone 0 182 100 350
+cellphone 292 49 367 142
+cellphone 422 42 469 90
+cellphone 432 79 499 157
+cellphone 350 73 449 188
+cellphone 377 349 416 369
+cellphone 442 204 499 315
+cellphone 264 51 296 92
+cellphone 438 324 488 369
+cellphone 2 87 95 206

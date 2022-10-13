@@ -1,0 +1,5 @@
+pizza 44 35 592 396
+cup 506 0 574 18
+diningtable 4 0 639 468
+wineglass 522 1 639 104
+cup 397 1 501 71

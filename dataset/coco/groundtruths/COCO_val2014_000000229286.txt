@@ -1,0 +1,7 @@
+diningtable 0 356 476 639
+person 51 5 428 399
+cake 127 356 374 536
+bowl 0 266 60 309
+laptop 362 484 476 638
+bowl 0 307 96 442
+spoon 443 321 458 337

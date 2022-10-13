@@ -1,0 +1,5 @@
+person 0 191 75 363
+teddybear 263 158 395 355
+person 341 0 442 81
+couch 0 0 86 122
+person 172 29 467 477

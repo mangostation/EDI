@@ -1,0 +1,6 @@
+person 61 93 335 639
+baseballbat 235 211 356 305
+person 191 284 380 639
+person 314 85 479 639
+umbrella 329 361 358 467
+chair 0 491 87 635

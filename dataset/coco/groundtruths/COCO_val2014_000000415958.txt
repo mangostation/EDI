@@ -1,0 +1,7 @@
+refrigerator 75 247 142 476
+chair 14 393 91 630
+person 1 211 107 404
+oven 303 338 411 533
+sink 220 351 303 367
+handbag 1 361 44 432
+backpack 113 499 200 635

@@ -1,0 +1,3 @@
+motorcycle 2 292 103 352
+person 58 171 349 427
+skateboard 183 422 237 476

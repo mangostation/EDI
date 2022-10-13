@@ -1,0 +1,5 @@
+person 307 97 463 631
+baseballbat 291 449 339 594
+baseballglove 0 347 20 414
+person 156 44 355 589
+person 0 79 209 608

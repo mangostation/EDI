@@ -1,0 +1,5 @@
+cat 227 129 355 318
+bed 0 0 640 480
+teddybear 207 269 527 471
+teddybear 1 111 65 477
+teddybear 9 183 250 446

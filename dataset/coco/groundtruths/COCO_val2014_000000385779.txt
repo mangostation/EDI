@@ -1,0 +1,3 @@
+bicycle 312 401 426 607
+person 71 122 347 478
+skateboard 183 407 278 560

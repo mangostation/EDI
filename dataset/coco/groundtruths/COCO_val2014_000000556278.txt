@@ -1,0 +1,8 @@
+car 548 205 573 228
+trafficlight 19 115 33 147
+trafficlight 83 115 96 140
+trafficlight 292 150 304 165
+trafficlight 347 121 357 141
+trafficlight 534 184 543 200
+car 519 202 531 208
+trafficlight 78 113 85 138

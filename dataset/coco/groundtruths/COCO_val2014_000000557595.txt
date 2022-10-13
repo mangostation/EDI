@@ -1,0 +1,4 @@
+person 268 1 572 422
+skateboard 250 126 353 427
+handbag 559 0 635 126
+person 525 0 639 422

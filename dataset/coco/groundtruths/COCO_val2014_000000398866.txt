@@ -1,0 +1,15 @@
+elephant 79 105 617 383
+elephant 488 77 584 204
+backpack 371 43 402 94
+person 307 2 373 196
+person 467 12 506 103
+person 400 50 417 84
+person 87 121 114 164
+person 68 120 92 160
+person 16 131 59 185
+person 178 7 318 427
+person 48 123 92 175
+person 94 119 114 149
+person 28 124 77 178
+person 275 14 332 115
+person 74 105 88 133

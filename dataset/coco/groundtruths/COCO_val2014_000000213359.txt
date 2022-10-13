@@ -1,0 +1,6 @@
+person 280 107 426 392
+person 28 55 365 408
+pizza 48 414 373 602
+knife 68 356 170 404
+diningtable 13 254 106 261
+diningtable 1 369 426 629

@@ -1,0 +1,12 @@
+surfboard 382 267 542 380
+surfboard 360 263 481 368
+surfboard 309 259 425 355
+surfboard 252 250 397 349
+surfboard 210 247 368 331
+surfboard 199 243 324 330
+surfboard 149 234 281 314
+surfboard 139 235 239 309
+surfboard 93 228 195 295
+surfboard 179 239 296 320
+surfboard 104 230 226 301
+surfboard 54 226 176 285

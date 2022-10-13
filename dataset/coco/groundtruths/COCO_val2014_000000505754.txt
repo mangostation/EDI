@@ -1,0 +1,5 @@
+diningtable 0 2 640 355
+cup 27 23 266 271
+cake 383 101 551 272
+keyboard 0 0 453 161
+fork 550 162 638 217

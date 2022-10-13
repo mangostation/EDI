@@ -1,0 +1,13 @@
+chair 74 182 131 255
+chair 36 177 65 201
+chair 118 174 138 239
+diningtable 36 191 106 216
+diningtable 1 235 491 332
+refrigerator 236 115 348 272
+microwave 464 93 499 181
+toaster 397 185 429 207
+bowl 263 72 325 108
+pottedplant 62 167 102 203
+sink 112 220 274 286
+oven 408 224 499 289
+pottedplant 420 285 498 328

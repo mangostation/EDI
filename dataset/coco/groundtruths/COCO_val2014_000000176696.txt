@@ -1,0 +1,7 @@
+wineglass 125 12 268 338
+cup 277 90 430 329
+donut 93 349 296 568
+donut 258 351 364 501
+diningtable 0 155 474 632
+pottedplant 23 0 142 144
+chair 81 0 373 169

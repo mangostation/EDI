@@ -1,0 +1,5 @@
+train 0.987565 61 188 427 322
+trafficlight 0.371140 0 131 14 196
+trafficlight 0.134791 0 126 18 259
+trafficlight 0.059235 0 216 16 252
+trafficlight 0.014669 0 180 9 195

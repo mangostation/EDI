@@ -1,0 +1,5 @@
+couch 2 4 390 434
+teddybear 76 133 401 447
+teddybear 184 66 427 389
+bed 0 362 428 639
+teddybear 13 274 324 573

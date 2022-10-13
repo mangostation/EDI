@@ -1,0 +1,2 @@
+hotdog 83 88 356 391
+diningtable 0 0 640 478

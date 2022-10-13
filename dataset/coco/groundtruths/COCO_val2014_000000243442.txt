@@ -1,0 +1,6 @@
+refrigerator 427 25 635 373
+person 369 21 508 391
+bowl 18 208 86 230
+bowl 469 64 516 84
+bowl 472 202 498 211
+diningtable 1 196 286 375

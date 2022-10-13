@@ -1,0 +1,6 @@
+toilet 274 343 514 474
+sink 314 97 494 167
+bottle 514 8 553 88
+bottle 469 42 518 137
+bottle 496 0 528 76
+toothbrush 483 133 530 175

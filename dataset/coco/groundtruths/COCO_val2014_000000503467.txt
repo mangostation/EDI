@@ -1,0 +1,6 @@
+person 44 33 142 281
+trafficlight 343 44 360 89
+backpack 49 60 101 131
+trafficlight 361 55 373 84
+trafficlight 380 19 408 89
+bicycle 112 140 158 290

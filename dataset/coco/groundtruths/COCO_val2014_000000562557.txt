@@ -1,0 +1,11 @@
+person 63 42 147 206
+person 242 74 345 409
+person 336 123 398 435
+person 439 145 542 462
+surfboard 417 255 472 449
+surfboard 330 195 435 344
+surfboard 194 156 390 247
+surfboard 43 186 145 390
+backpack 224 117 313 233
+backpack 301 171 352 268
+backpack 30 118 71 211

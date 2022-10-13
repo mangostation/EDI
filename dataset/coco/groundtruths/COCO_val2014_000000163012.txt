@@ -1,0 +1,2 @@
+stopsign 241 125 308 194
+trafficlight 256 58 268 88

@@ -1,0 +1,7 @@
+microwave 180 189 232 217
+oven 175 240 233 315
+handbag 300 248 332 296
+pottedplant 261 115 308 210
+pottedplant 60 120 112 160
+person 491 249 552 323
+couch 405 312 610 364

@@ -1,0 +1,6 @@
+person 311 171 375 291
+person 472 124 599 324
+motorcycle 468 166 608 370
+motorcycle 274 193 404 310
+airplane 188 16 201 20
+person 16 85 131 369

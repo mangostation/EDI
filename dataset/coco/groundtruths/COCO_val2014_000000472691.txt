@@ -1,0 +1,5 @@
+chair 143 0 624 139
+diningtable 1 87 639 472
+person 155 0 509 126
+pizza 61 124 363 460
+pizza 351 148 639 356

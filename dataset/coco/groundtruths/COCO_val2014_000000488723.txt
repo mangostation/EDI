@@ -1,0 +1,7 @@
+bottle 20 1 124 112
+bottle 120 0 196 104
+bottle 209 0 263 72
+bottle 262 0 334 112
+vase 252 446 368 549
+pottedplant 48 24 612 549
+diningtable 171 292 639 569

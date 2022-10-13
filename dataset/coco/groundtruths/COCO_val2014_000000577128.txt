@@ -1,0 +1,10 @@
+diningtable 3 29 639 471
+wineglass 13 0 108 165
+fork 162 80 235 152
+spoon 360 11 508 66
+bowl 228 11 509 128
+hotdog 216 185 560 389
+knife 509 43 639 81
+book 0 28 45 64
+knife 75 84 247 123
+book 0 63 51 83

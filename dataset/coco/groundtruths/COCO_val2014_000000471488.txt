@@ -1,0 +1,7 @@
+car 461 291 573 354
+motorcycle 2 309 636 474
+person 409 292 429 342
+person 99 278 200 449
+person 592 270 639 341
+parkingmeter 418 306 424 319
+handbag 419 306 429 319

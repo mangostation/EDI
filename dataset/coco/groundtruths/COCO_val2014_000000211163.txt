@@ -1,0 +1,3 @@
+person 224 12 317 222
+baseballglove 251 101 281 133
+sportsball 261 119 267 126

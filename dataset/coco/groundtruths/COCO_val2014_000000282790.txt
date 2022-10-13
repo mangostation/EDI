@@ -1,0 +1,7 @@
+handbag 17 73 129 245
+suitcase 464 37 624 257
+suitcase 126 57 230 241
+suitcase 349 47 451 240
+backpack 244 49 344 245
+handbag 133 57 232 239
+suitcase 20 75 127 244

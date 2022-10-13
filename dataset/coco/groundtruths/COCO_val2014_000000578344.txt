@@ -1,0 +1,4 @@
+pizza 30 93 208 186
+person 409 183 455 254
+pottedplant 5 184 174 631
+person 92 27 416 639

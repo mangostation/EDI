@@ -1,0 +1,9 @@
+motorcycle 92 199 474 479
+person 156 12 391 479
+bus 387 14 639 410
+person 89 164 126 245
+person 23 162 53 244
+person 14 159 32 191
+hairdrier 135 0 195 44
+person 0 146 8 221
+person 375 171 388 228

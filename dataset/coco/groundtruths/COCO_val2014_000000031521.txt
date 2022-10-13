@@ -1,0 +1,9 @@
+chair 263 366 425 639
+person 142 261 379 549
+wineglass 154 316 184 371
+diningtable 0 414 220 518
+laptop 35 350 157 459
+sink 127 221 345 241
+pottedplant 147 138 217 189
+pottedplant 212 155 277 193
+chair 23 501 161 639

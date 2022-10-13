@@ -1,0 +1,3 @@
+pottedplant 67 22 369 558
+vase 114 186 332 564
+wineglass 121 191 327 551

@@ -1,0 +1,6 @@
+horse 452 276 529 418
+umbrella 379 167 436 187
+umbrella 511 160 570 212
+umbrella 243 165 303 195
+umbrella 147 166 203 212
+umbrella 10 167 71 216

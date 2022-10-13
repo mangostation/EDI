@@ -1,0 +1,9 @@
+bottle 389 171 446 364
+bottle 8 181 88 370
+cellphone 215 40 254 117
+person 2 4 248 357
+bottle 484 273 498 374
+diningtable 322 323 487 374
+clock 132 198 154 220
+person 174 58 393 364
+diningtable 82 356 337 374

@@ -1,0 +1,2 @@
+person 0 0 463 472
+skateboard 411 275 486 410

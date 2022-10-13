@@ -1,0 +1,9 @@
+sportsball 389 302 394 307
+sportsball 392 262 396 265
+person 205 187 257 331
+person 267 211 292 276
+person 499 186 542 317
+bench 434 253 495 327
+tennisracket 252 240 274 255
+person 390 251 432 324
+sportsball 332 242 334 244

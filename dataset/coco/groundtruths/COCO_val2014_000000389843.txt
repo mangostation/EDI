@@ -1,0 +1,7 @@
+pottedplant 53 127 97 183
+tv 0 76 37 182
+chair 116 57 322 341
+chair 335 44 499 264
+vase 65 139 94 184
+vase 248 125 279 149
+pottedplant 245 72 293 150

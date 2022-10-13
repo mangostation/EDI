@@ -1,0 +1,8 @@
+chair 280 86 374 184
+person 0 2 375 353
+person 45 2 91 109
+hotdog 131 295 320 477
+person 0 1 60 102
+person 78 0 105 69
+person 96 0 118 70
+diningtable 1 214 374 489

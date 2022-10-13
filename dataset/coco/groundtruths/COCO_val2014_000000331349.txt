@@ -1,0 +1,4 @@
+refrigerator 250 233 425 631
+microwave 127 298 223 353
+oven 127 361 178 506
+sink 209 373 244 394

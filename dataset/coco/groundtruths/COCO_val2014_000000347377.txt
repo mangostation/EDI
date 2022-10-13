@@ -1,0 +1,5 @@
+umbrella 336 127 368 192
+umbrella 361 147 397 226
+umbrella 129 126 152 227
+umbrella 228 145 252 196
+umbrella 64 145 91 227

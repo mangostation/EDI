@@ -1,0 +1,14 @@
+boat 30 34 463 204
+person 309 8 325 35
+person 295 12 316 63
+person 218 9 230 41
+person 408 10 420 40
+person 389 11 393 34
+person 280 10 290 34
+person 200 10 208 34
+person 128 8 142 51
+person 46 10 60 43
+person 443 9 464 37
+person 465 9 475 37
+person 433 11 440 28
+person 328 16 338 53

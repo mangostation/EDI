@@ -1,0 +1,11 @@
+scissors 179 238 220 263
+scissors 462 240 512 282
+scissors 354 237 400 284
+scissors 37 233 70 265
+person 236 17 401 342
+person 119 47 265 337
+person 199 70 220 111
+person 8 53 160 342
+person 379 53 515 339
+person 472 17 639 342
+person 1 125 24 342

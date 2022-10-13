@@ -1,0 +1,6 @@
+trafficlight 167 193 246 389
+trafficlight 47 104 146 295
+trafficlight 210 63 311 263
+umbrella 286 275 637 354
+trafficlight 0 311 23 352
+trafficlight 155 86 206 271

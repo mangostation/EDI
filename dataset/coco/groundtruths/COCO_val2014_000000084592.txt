@@ -1,0 +1,13 @@
+car 411 348 425 361
+car 394 347 409 359
+truck 371 339 388 358
+trafficlight 338 286 351 291
+truck 251 355 283 374
+truck 395 343 409 359
+trafficlight 382 319 389 322
+trafficlight 409 319 413 323
+trafficlight 516 310 524 324
+trafficlight 559 335 564 339
+car 211 361 216 367
+trafficlight 432 289 445 295
+trafficlight 386 287 399 292

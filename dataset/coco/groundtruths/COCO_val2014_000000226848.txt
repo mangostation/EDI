@@ -1,0 +1,4 @@
+person 145 182 323 553
+skateboard 196 503 300 570
+person 38 139 113 302
+skateboard 54 321 75 327

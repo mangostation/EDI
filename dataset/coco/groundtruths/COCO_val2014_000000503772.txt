@@ -1,0 +1,6 @@
+refrigerator 304 2 639 474
+bottle 278 169 294 204
+oven 0 165 92 357
+knife 82 117 94 143
+spoon 244 188 265 197
+microwave 122 125 180 167

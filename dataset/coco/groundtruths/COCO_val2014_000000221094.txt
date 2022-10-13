@@ -1,0 +1,12 @@
+bicycle 229 191 432 339
+car 0 141 259 319
+car 428 154 572 315
+person 335 132 429 317
+person 295 110 387 315
+backpack 268 206 311 293
+suitcase 424 250 538 348
+handbag 399 218 443 262
+pottedplant 407 131 460 165
+pottedplant 6 54 108 138
+pottedplant 238 23 415 217
+pottedplant 529 53 572 116

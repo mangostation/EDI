@@ -1,0 +1,4 @@
+cellphone 170 269 214 322
+person 137 0 634 456
+chair 52 311 132 465
+person 0 249 61 459

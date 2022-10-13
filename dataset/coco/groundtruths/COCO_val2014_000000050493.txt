@@ -1,0 +1,11 @@
+person 168 77 217 215
+person 365 80 404 202
+person 67 66 117 213
+person 555 76 615 207
+person 485 62 498 106
+surfboard 329 111 403 152
+surfboard 534 102 579 154
+surfboard 82 85 125 184
+person 444 62 469 101
+person 496 81 509 103
+surfboard 170 106 184 163

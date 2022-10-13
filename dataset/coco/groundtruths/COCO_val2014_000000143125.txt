@@ -1,0 +1,5 @@
+umbrella 262 406 377 539
+person 42 234 227 550
+person 203 217 355 552
+stopsign 357 135 383 186
+handbag 217 506 298 534

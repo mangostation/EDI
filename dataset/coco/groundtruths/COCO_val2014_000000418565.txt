@@ -1,0 +1,14 @@
+umbrella 140 135 267 233
+umbrella 170 52 325 145
+umbrella 341 64 497 179
+umbrella 278 138 401 240
+umbrella 216 196 326 281
+umbrella 182 242 276 289
+umbrella 424 151 539 250
+umbrella 387 252 482 300
+umbrella 457 210 569 296
+umbrella 433 290 514 354
+umbrella 296 313 366 375
+umbrella 218 312 291 372
+umbrella 458 0 637 77
+umbrella 0 0 639 459

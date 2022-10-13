@@ -1,0 +1,9 @@
+car 57 339 106 366
+trafficlight 54 231 77 282
+trafficlight 124 265 136 294
+car 401 324 467 330
+trafficlight 77 251 85 277
+trafficlight 571 279 586 295
+trafficlight 87 262 91 273
+pottedplant 124 340 258 362
+pottedplant 492 330 612 388

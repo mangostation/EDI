@@ -1,0 +1,15 @@
+umbrella 134 15 167 26
+umbrella 96 15 123 26
+person 83 175 374 390
+person 185 0 263 233
+person 56 63 138 132
+handbag 187 413 304 479
+umbrella 264 21 302 32
+diningtable 124 45 172 64
+clock 288 291 296 301
+frisbee 357 284 628 320
+diningtable 98 42 121 57
+diningtable 158 47 181 48
+umbrella 185 21 192 26
+person 0 1 61 151
+chair 169 46 187 65

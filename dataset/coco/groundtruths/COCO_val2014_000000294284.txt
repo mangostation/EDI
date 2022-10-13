@@ -1,0 +1,11 @@
+elephant 271 207 389 276
+elephant 201 229 255 270
+elephant 177 236 199 253
+elephant 146 222 184 251
+elephant 86 223 152 260
+elephant 491 231 587 288
+elephant 467 225 512 252
+elephant 2 216 52 255
+elephant 256 220 287 239
+car 3 350 636 469
+elephant 255 234 286 271

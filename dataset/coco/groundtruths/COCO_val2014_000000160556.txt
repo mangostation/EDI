@@ -1,0 +1,9 @@
+person 453 76 637 422
+cellphone 564 141 602 184
+keyboard 346 272 461 329
+microwave 0 106 348 375
+teddybear 13 57 96 124
+laptop 439 243 473 271
+teddybear 181 107 215 136
+tv 279 133 405 262
+cellphone 395 245 413 285

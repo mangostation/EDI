@@ -1,0 +1,1 @@
+parkingmeter 367 190 390 234

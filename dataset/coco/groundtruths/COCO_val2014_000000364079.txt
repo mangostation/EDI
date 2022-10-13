@@ -1,0 +1,4 @@
+person 152 53 364 437
+person 149 60 241 274
+handbag 230 129 352 323
+motorcycle 122 172 360 544

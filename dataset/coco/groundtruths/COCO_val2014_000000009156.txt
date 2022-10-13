@@ -1,0 +1,4 @@
+sandwich 49 282 325 422
+cup 430 3 595 187
+fork 400 217 529 468
+diningtable 0 3 640 473

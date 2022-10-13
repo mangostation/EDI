@@ -1,0 +1,6 @@
+person 294 98 486 409
+person 129 30 259 380
+person 10 120 149 425
+baseballglove 8 193 81 249
+baseballglove 426 156 478 180
+person 465 115 553 407

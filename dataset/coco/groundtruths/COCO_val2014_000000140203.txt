@@ -1,0 +1,8 @@
+dog 485 42 577 113
+person 508 20 588 246
+person 0 118 43 410
+person 7 47 26 113
+truck 19 0 503 389
+person 17 18 37 83
+person 229 48 254 90
+person 0 20 29 68

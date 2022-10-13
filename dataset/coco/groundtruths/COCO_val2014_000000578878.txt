@@ -1,0 +1,4 @@
+cellphone 13 364 118 469
+person 14 1 479 638
+diningtable 1 502 257 630
+tv 199 156 288 275

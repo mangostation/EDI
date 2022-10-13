@@ -1,0 +1,3 @@
+stopsign 181 69 305 219
+parkingmeter 173 277 192 319
+parkingmeter 192 277 206 317

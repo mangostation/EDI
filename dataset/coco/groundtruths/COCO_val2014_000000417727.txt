@@ -1,0 +1,9 @@
+cellphone 256 309 285 361
+person 429 73 499 273
+laptop 44 108 269 365
+laptop 329 91 470 241
+chair 0 206 47 339
+chair 481 299 499 334
+laptop 177 14 355 139
+cellphone 441 90 466 134
+chair 95 2 185 106

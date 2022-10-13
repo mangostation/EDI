@@ -1,0 +1,3 @@
+carrot 181 205 401 422
+broccoli 146 200 318 375
+diningtable 450 2 639 470

@@ -1,0 +1,4 @@
+umbrella 54 398 137 453
+umbrella 145 442 204 461
+person 149 451 209 553
+person 86 430 132 540

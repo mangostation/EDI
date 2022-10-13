@@ -1,0 +1,9 @@
+sandwich 275 244 387 358
+chair 614 285 636 405
+person 7 98 136 419
+person 101 0 500 426
+chair 444 200 506 275
+person 449 140 631 426
+chair 11 282 52 426
+pottedplant 2 15 71 174
+diningtable 451 199 505 274

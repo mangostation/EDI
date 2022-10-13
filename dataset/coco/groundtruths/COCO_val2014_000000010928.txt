@@ -1,0 +1,1 @@
+trafficlight 221 508 326 564

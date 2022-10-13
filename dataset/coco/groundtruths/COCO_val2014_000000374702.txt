@@ -1,0 +1,7 @@
+bottle 189 417 290 639
+person 5 1 427 564
+fork 115 547 184 602
+knife 97 535 111 637
+donut 27 523 191 631
+handbag 357 84 427 536
+diningtable 278 532 427 631

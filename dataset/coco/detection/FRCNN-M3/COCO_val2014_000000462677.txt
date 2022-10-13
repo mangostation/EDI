@@ -1,0 +1,2 @@
+parkingmeter 0.983446 172 44 326 352
+pottedplant 0.782522 2 431 121 580

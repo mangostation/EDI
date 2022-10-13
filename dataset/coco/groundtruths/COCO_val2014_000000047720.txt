@@ -1,0 +1,10 @@
+sandwich 338 328 611 471
+diningtable 12 154 611 595
+person 61 0 229 119
+cup 33 94 335 289
+spoon 55 257 197 316
+sandwich 388 207 581 355
+person 0 0 89 108
+person 229 0 416 100
+knife 564 303 611 326
+pizza 392 207 583 362

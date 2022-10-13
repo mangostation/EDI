@@ -1,0 +1,11 @@
+bed 0 28 480 632
+teddybear 327 110 405 176
+teddybear 209 463 328 629
+teddybear 158 423 231 568
+teddybear 102 399 177 522
+teddybear 269 203 325 271
+teddybear 223 192 281 268
+teddybear 312 182 384 268
+teddybear 329 162 392 247
+teddybear 348 152 377 173
+teddybear 324 540 387 639

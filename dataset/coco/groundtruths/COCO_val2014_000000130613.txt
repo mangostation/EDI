@@ -1,0 +1,5 @@
+knife 130 5 313 43
+carrot 434 147 562 262
+carrot 601 146 638 347
+fork 591 337 639 388
+diningtable 235 0 639 49

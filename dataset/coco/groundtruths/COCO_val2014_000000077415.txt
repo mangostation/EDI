@@ -1,0 +1,4 @@
+bottle 25 5 244 412
+bottle 209 1 324 97
+sandwich 236 61 539 427
+person 0 59 253 474

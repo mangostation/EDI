@@ -1,0 +1,7 @@
+bed 1 115 629 359
+chair 55 0 147 134
+book 225 11 248 45
+bottle 213 19 221 38
+bottle 204 20 214 43
+chair 308 0 417 126
+diningtable 198 11 268 125

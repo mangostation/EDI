@@ -1,0 +1,4 @@
+cellphone 199 337 270 410
+backpack 5 41 262 350
+suitcase 207 0 639 415
+bed 194 0 639 110

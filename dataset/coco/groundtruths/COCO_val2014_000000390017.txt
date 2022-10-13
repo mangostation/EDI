@@ -1,0 +1,4 @@
+motorcycle 300 240 535 363
+handbag 473 239 515 275
+backpack 473 236 514 274
+handbag 367 242 425 273

@@ -1,0 +1,11 @@
+tie 218 311 297 592
+person 0 0 88 348
+person 96 0 210 231
+person 368 0 433 130
+person 415 22 449 89
+bowl 232 559 364 633
+handbag 40 24 98 212
+person 0 10 532 639
+person 295 0 403 105
+diningtable 10 561 532 637
+person 43 9 100 230

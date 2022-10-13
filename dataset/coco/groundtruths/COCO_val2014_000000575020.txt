@@ -1,0 +1,8 @@
+bottle 472 189 537 391
+sandwich 190 287 369 383
+person 165 6 602 328
+fork 70 410 92 425
+diningtable 0 278 192 425
+person 181 87 317 275
+wineglass 98 226 154 311
+diningtable 328 312 638 424

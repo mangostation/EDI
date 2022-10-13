@@ -1,0 +1,4 @@
+cat 1 39 474 365
+couch 0 191 477 356
+pottedplant 266 26 303 88
+clock 36 78 61 105

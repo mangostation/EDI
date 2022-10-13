@@ -1,0 +1,10 @@
+bottle 459 0 583 310
+chair 311 46 447 212
+wineglass 219 51 329 296
+pizza 4 290 636 614
+person 248 0 355 55
+knife 0 412 54 454
+diningtable 0 191 640 623
+diningtable 409 55 487 152
+bowl 348 197 464 281
+wineglass 578 123 639 354

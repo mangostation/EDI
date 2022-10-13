@@ -1,0 +1,16 @@
+bicycle 553 162 600 190
+car 400 153 485 193
+car 172 143 212 167
+person 309 112 362 253
+person 17 112 44 185
+person 567 146 589 190
+trafficlight 179 68 187 86
+trafficlight 248 19 284 57
+trafficlight 219 73 229 90
+person 302 119 313 130
+trafficlight 89 95 95 105
+trafficlight 42 94 49 109
+backpack 4 140 23 173
+trafficlight 558 106 571 115
+backpack 578 152 594 166
+person 300 128 319 244

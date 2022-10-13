@@ -1,0 +1,3 @@
+stopsign 0.987122 66 184 265 387
+parkingmeter 0.024334 163 11 193 70
+trafficlight 0.023061 163 11 193 70

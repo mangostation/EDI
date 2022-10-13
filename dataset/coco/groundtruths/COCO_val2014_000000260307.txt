@@ -1,0 +1,3 @@
+trafficlight 231 315 247 350
+trafficlight 336 294 407 370
+trafficlight 305 259 366 366

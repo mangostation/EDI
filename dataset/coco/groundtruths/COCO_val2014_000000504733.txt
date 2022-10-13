@@ -1,0 +1,10 @@
+person 242 77 534 421
+person 67 1 195 255
+tennisracket 189 344 351 421
+person 603 0 639 171
+sportsball 304 403 346 426
+tennisracket 0 65 57 239
+tennisracket 148 72 205 248
+person 220 0 301 239
+person 0 3 54 259
+tennisracket 577 113 629 221

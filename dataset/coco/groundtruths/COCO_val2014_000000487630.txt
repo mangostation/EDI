@@ -1,0 +1,14 @@
+sportsball 236 184 248 195
+chair 84 130 126 187
+person 233 140 409 391
+person 53 42 96 191
+person 0 51 30 224
+person 449 9 490 76
+person 419 26 466 80
+person 551 4 581 52
+person 505 19 520 53
+person 518 10 543 69
+person 476 9 510 78
+tennisracket 220 176 245 226
+tie 489 29 498 56
+person 530 20 582 94

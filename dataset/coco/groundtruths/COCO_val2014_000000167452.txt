@@ -1,0 +1,15 @@
+person 426 18 639 425
+teddybear 167 207 247 417
+teddybear 117 200 181 282
+teddybear 35 66 138 224
+teddybear 371 205 439 274
+teddybear 435 310 558 415
+teddybear 399 280 452 329
+teddybear 379 367 431 424
+teddybear 123 172 169 205
+teddybear 436 265 502 344
+teddybear 23 229 79 329
+teddybear 269 322 323 373
+teddybear 0 30 61 100
+teddybear 435 201 513 280
+teddybear 1 201 400 423

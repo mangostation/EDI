@@ -1,0 +1,4 @@
+pizza 31 131 476 535
+diningtable 1 376 477 630
+pizza 160 1 477 219
+pizza 0 53 137 218

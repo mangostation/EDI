@@ -1,0 +1,5 @@
+pottedplant 528 5 639 242
+cat 0 37 412 402
+couch 0 1 619 401
+remote 439 198 618 285
+remote 389 167 587 227

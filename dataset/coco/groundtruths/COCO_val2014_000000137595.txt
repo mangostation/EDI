@@ -1,0 +1,6 @@
+dog 134 263 333 478
+tv 296 86 512 313
+pottedplant 15 151 38 178
+vase 66 129 97 188
+vase 0 229 39 323
+pottedplant 29 81 111 185

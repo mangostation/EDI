@@ -1,0 +1,17 @@
+person 149 287 174 322
+person 456 305 474 337
+trafficlight 425 167 466 190
+motorcycle 114 305 198 357
+person 111 278 129 327
+person 188 289 211 345
+motorcycle 101 314 125 351
+motorcycle 295 317 332 349
+motorcycle 328 321 350 348
+motorcycle 349 316 365 346
+motorcycle 374 325 384 339
+motorcycle 342 321 351 343
+motorcycle 345 311 373 344
+motorcycle 368 323 378 343
+motorcycle 19 297 97 351
+motorcycle 282 300 292 334
+motorcycle 458 326 469 340

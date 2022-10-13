@@ -1,0 +1,8 @@
+umbrella 83 0 357 148
+person 4 226 173 417
+person 49 127 522 422
+person 208 188 639 421
+person 0 214 84 358
+backpack 0 325 84 425
+person 590 249 639 367
+person 559 249 611 322

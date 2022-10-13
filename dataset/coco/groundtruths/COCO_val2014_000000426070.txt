@@ -1,0 +1,6 @@
+couch 21 78 638 417
+diningtable 2 338 304 426
+person 38 46 407 343
+remote 72 331 101 371
+backpack 0 172 108 268
+backpack 0 125 44 200

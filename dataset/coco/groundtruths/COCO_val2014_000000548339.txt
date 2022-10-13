@@ -1,0 +1,11 @@
+bottle 102 127 125 185
+person 186 30 532 497
+person 363 2 515 193
+person 546 1 639 248
+baseballbat 201 65 279 202
+person 110 0 228 184
+bench 43 131 323 359
+person 213 0 325 132
+bench 396 184 639 347
+handbag 210 116 295 182
+baseballglove 185 165 233 226

@@ -1,0 +1,5 @@
+fork 42 0 395 265
+knife 0 44 406 196
+carrot 443 91 461 119
+diningtable 0 0 498 399
+sandwich 114 60 499 403

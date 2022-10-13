@@ -1,0 +1,6 @@
+pottedplant 2 28 270 342
+vase 65 192 197 337
+teddybear 154 153 359 370
+person 374 206 453 346
+person 430 205 539 350
+bench 0 315 640 430

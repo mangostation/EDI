@@ -1,0 +1,6 @@
+cellphone 123 139 143 173
+person 259 10 380 260
+cup 170 237 237 340
+handbag 68 367 312 638
+person 388 3 507 244
+person 41 18 418 629

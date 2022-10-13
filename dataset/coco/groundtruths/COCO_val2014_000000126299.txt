@@ -1,0 +1,4 @@
+person 427 3 528 121
+oven 395 112 575 388
+oven 0 40 386 398
+refrigerator 373 32 456 152

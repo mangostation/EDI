@@ -1,0 +1,6 @@
+person 212 461 432 632
+giraffe 78 295 369 639
+giraffe 396 285 479 639
+giraffe 0 132 220 547
+giraffe 304 178 414 436
+giraffe 1 490 192 639

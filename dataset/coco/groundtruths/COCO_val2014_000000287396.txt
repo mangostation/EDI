@@ -1,0 +1,8 @@
+car 0 262 56 419
+car 45 271 203 405
+bus 196 24 600 465
+person 232 238 308 316
+trafficlight 534 132 580 219
+trafficlight 85 52 127 203
+car 590 283 639 400
+trafficlight 1 40 28 175

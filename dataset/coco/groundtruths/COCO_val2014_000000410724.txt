@@ -1,0 +1,4 @@
+person 15 0 196 189
+person 328 0 507 118
+scissors 499 318 618 408
+person 480 196 565 243

@@ -1,0 +1,4 @@
+diningtable 2 3 466 349
+donut 123 24 360 186
+cake 0 1 81 139
+cake 126 24 373 213

@@ -1,0 +1,4 @@
+chair 32 187 115 334
+chair 0 217 34 371
+diningtable 0 218 57 257
+refrigerator 168 55 374 492

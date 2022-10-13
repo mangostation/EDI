@@ -1,0 +1,8 @@
+cellphone 263 234 327 283
+chair 372 6 639 189
+person 18 29 395 428
+laptop 304 29 543 367
+person 0 108 105 175
+chair 39 321 438 432
+chair 0 305 106 433
+chair 171 0 367 65

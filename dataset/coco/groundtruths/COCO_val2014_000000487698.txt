@@ -1,0 +1,5 @@
+firehydrant 353 117 485 496
+person 160 46 335 365
+bench 0 212 27 318
+cellphone 221 68 231 81
+handbag 207 141 282 219

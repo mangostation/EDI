@@ -1,0 +1,5 @@
+bicycle 496 125 639 238
+bicycle 1 137 102 241
+motorcycle 98 97 297 244
+motorcycle 328 88 519 257
+parkingmeter 542 93 564 141

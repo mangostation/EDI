@@ -1,0 +1,4 @@
+giraffe 134 146 264 391
+giraffe 231 132 379 374
+giraffe 292 128 462 370
+giraffe 383 119 606 362

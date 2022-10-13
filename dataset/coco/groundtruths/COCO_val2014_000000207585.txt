@@ -1,0 +1,6 @@
+teddybear 232 42 526 442
+teddybear 58 150 258 431
+teddybear 431 111 602 324
+teddybear 179 69 395 450
+tie 130 231 199 292
+tie 341 137 419 196

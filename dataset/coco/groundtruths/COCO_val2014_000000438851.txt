@@ -1,0 +1,4 @@
+umbrella 341 319 418 453
+cellphone 367 474 427 542
+handbag 12 7 409 337
+toothbrush 102 385 124 447

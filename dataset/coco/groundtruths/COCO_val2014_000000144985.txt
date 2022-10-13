@@ -1,0 +1,4 @@
+truck 0 134 252 333
+trafficlight 283 139 289 188
+bench 365 269 437 312
+trafficlight 293 189 323 205

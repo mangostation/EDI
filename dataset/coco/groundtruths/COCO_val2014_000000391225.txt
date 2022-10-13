@@ -1,0 +1,6 @@
+boat 282 12 419 76
+person 294 163 343 213
+person 214 187 241 213
+surfboard 261 183 314 219
+person 368 52 374 63
+surfboard 214 205 221 211

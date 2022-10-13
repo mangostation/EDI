@@ -1,0 +1,7 @@
+chair 499 54 638 169
+diningtable 0 164 640 474
+knife 44 159 371 307
+cake 256 110 583 365
+carrot 472 199 522 235
+carrot 451 131 506 154
+person 0 75 96 213

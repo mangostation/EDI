@@ -1,0 +1,10 @@
+horse 123 74 290 258
+car 44 402 83 421
+car 308 398 321 405
+car 7 401 36 419
+car 37 401 53 413
+person 182 84 220 180
+trafficlight 41 341 52 357
+trafficlight 41 367 46 381
+person 394 404 399 421
+trafficlight 625 330 634 350

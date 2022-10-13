@@ -1,0 +1,7 @@
+broccoli 40 168 345 370
+broccoli 247 275 527 425
+broccoli 375 115 639 417
+broccoli 41 20 281 192
+broccoli 243 17 477 175
+carrot 221 119 403 232
+bowl 0 3 640 419

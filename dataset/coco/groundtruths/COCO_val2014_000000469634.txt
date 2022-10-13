@@ -1,0 +1,7 @@
+person 221 10 352 207
+person 390 156 410 206
+person 499 140 519 213
+skateboard 243 199 320 218
+skateboard 503 211 518 216
+truck 368 203 387 212
+skateboard 392 208 404 210

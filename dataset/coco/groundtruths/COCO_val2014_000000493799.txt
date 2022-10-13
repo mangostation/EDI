@@ -1,0 +1,6 @@
+diningtable 0 2 640 482
+fork 1 77 97 269
+carrot 369 350 526 477
+carrot 486 283 547 362
+carrot 428 224 528 343
+carrot 463 269 531 343

@@ -1,0 +1,4 @@
+person 175 74 549 474
+chair 0 454 49 479
+pottedplant 1 108 254 479
+remote 146 364 236 461

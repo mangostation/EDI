@@ -1,0 +1,6 @@
+person 561 45 634 87
+elephant 247 75 322 177
+elephant 132 99 218 176
+elephant 63 63 137 149
+elephant 34 94 84 196
+truck 387 75 639 310

@@ -1,0 +1,5 @@
+truck 126 268 159 280
+trafficlight 462 297 467 304
+trafficlight 468 297 473 301
+train 285 278 357 399
+trafficlight 492 265 499 275

@@ -1,0 +1,8 @@
+motorcycle 249 173 392 340
+person 184 45 312 300
+person 322 68 353 160
+person 129 31 189 269
+handbag 149 153 223 218
+suitcase 315 152 362 225
+pottedplant 190 112 216 152
+handbag 312 156 360 225

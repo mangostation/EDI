@@ -1,0 +1,4 @@
+dog 377 290 415 403
+person 411 129 506 391
+handbag 484 209 511 256
+trafficlight 259 93 277 114

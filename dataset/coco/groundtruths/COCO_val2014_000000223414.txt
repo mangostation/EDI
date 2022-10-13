@@ -1,0 +1,6 @@
+chair 107 399 230 479
+person 217 131 483 479
+wineglass 382 210 463 288
+wineglass 580 406 639 477
+person 555 293 639 474
+umbrella 357 1 639 62

@@ -1,0 +1,8 @@
+person 94 234 240 345
+person 258 198 408 352
+baseballbat 391 235 463 248
+person 44 230 124 358
+person 0 4 30 76
+bench 57 8 145 57
+sportsball 588 80 595 87
+baseballglove 194 257 233 281

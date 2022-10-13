@@ -1,0 +1,11 @@
+bus 80 150 624 410
+person 79 265 111 361
+person 31 267 61 350
+person 13 264 40 347
+person 60 267 84 359
+person 489 204 560 261
+umbrella 0 246 45 276
+backpack 79 276 100 311
+backpack 60 281 75 308
+person 150 254 172 291
+person 0 280 12 320

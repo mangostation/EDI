@@ -1,0 +1,4 @@
+umbrella 251 141 291 162
+person 271 159 310 218
+elephant 254 187 322 286
+person 265 148 291 173

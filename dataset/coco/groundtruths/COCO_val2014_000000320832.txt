@@ -1,0 +1,8 @@
+diningtable 40 70 632 369
+fork 363 209 639 271
+knife 433 62 633 214
+person 546 29 639 260
+bottle 0 43 65 413
+cup 414 0 479 120
+bottle 317 0 390 115
+bottle 2 0 94 245

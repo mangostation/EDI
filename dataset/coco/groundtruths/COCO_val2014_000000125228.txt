@@ -1,0 +1,5 @@
+bed 0 0 640 475
+person 148 40 390 308
+laptop 148 185 635 470
+keyboard 199 260 458 385
+teddybear 239 0 513 89

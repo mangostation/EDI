@@ -1,0 +1,17 @@
+sportsball 216 353 267 401
+bench 529 50 564 58
+person 250 23 466 409
+person 0 48 133 322
+person 568 150 595 176
+person 360 12 391 64
+person 197 10 227 61
+person 31 3 51 19
+person 452 129 480 172
+person 0 0 25 63
+person 307 0 331 32
+person 328 3 351 36
+person 502 134 536 171
+person 567 16 596 65
+bench 142 35 163 55
+person 493 119 513 151
+person 13 0 639 374

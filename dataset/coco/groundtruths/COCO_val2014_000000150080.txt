@@ -1,0 +1,5 @@
+diningtable 2 3 499 328
+pizza 22 47 457 307
+chair 70 0 158 42
+chair 0 0 73 57
+fork 444 261 499 332

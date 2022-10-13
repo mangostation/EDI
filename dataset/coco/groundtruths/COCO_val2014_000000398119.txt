@@ -1,0 +1,11 @@
+person 18 327 41 393
+person 0 335 31 431
+trafficlight 107 278 114 296
+trafficlight 35 268 49 295
+person 187 319 204 343
+person 38 330 57 393
+person 30 329 38 339
+bus 238 140 463 472
+bus 153 218 251 398
+trafficlight 13 255 34 299
+trafficlight 87 262 109 299

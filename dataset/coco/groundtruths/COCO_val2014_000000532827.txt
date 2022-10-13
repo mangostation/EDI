@@ -1,0 +1,9 @@
+diningtable 0 186 637 472
+scissors 99 407 250 476
+scissors 109 407 267 444
+scissors 110 377 271 417
+scissors 178 375 305 462
+scissors 172 342 229 370
+scissors 149 366 298 413
+scissors 127 430 171 477
+scissors 178 364 269 388

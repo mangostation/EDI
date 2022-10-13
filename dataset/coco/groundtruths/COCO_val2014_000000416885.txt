@@ -1,0 +1,10 @@
+sandwich 259 259 499 353
+wineglass 64 0 183 322
+wineglass 38 15 91 214
+fork 371 201 499 254
+knife 0 219 27 267
+spoon 391 201 499 244
+car 173 0 499 158
+donut 180 134 279 215
+knife 358 217 499 266
+diningtable 2 108 499 369

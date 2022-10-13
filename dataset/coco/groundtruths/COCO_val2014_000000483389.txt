@@ -1,0 +1,5 @@
+broccoli 343 243 512 389
+broccoli 297 145 624 390
+knife 485 2 639 231
+diningtable 0 3 640 451
+fork 458 0 464 19

@@ -1,0 +1,7 @@
+person 492 65 579 210
+person 206 129 249 201
+person 94 85 136 201
+person 130 154 165 204
+person 0 159 10 185
+person 620 135 639 208
+firehydrant 365 165 554 424

@@ -1,0 +1,4 @@
+chair 37 381 126 498
+chair 0 358 48 394
+diningtable 1 393 114 493
+refrigerator 150 190 308 466

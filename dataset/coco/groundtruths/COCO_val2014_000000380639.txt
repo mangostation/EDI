@@ -1,0 +1,9 @@
+chair 364 401 419 544
+chair 29 285 85 370
+diningtable 0 474 478 631
+person 0 90 480 531
+pizza 39 460 277 606
+person 0 205 75 320
+person 446 238 479 354
+cellphone 293 599 389 639
+chair 417 313 455 362

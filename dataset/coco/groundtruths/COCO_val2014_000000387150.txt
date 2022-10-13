@@ -1,0 +1,7 @@
+car 181 98 639 425
+car 38 140 76 206
+car 586 114 639 161
+car 2 145 37 175
+parkingmeter 418 6 493 198
+truck 75 82 267 242
+parkingmeter 52 114 72 158

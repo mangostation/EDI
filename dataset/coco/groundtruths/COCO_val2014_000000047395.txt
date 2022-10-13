@@ -1,0 +1,2 @@
+bird 28 48 40 55
+trafficlight 0 71 53 105

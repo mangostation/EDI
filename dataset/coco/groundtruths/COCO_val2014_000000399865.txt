@@ -1,0 +1,2 @@
+trafficlight 153 263 163 287
+person 69 311 77 323

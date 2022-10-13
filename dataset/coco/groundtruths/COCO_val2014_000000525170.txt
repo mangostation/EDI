@@ -1,0 +1,5 @@
+person 21 54 417 573
+wineglass 263 536 399 639
+wineglass 1 472 62 639
+fork 55 456 130 578
+bowl 66 544 264 639

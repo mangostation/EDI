@@ -1,0 +1,4 @@
+bottle 221 61 275 266
+teddybear 208 39 376 262
+teddybear 249 141 383 278
+teddybear 101 119 256 318

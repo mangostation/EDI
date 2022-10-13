@@ -1,0 +1,4 @@
+person 216 1 639 421
+spoon 142 330 176 394
+cellphone 417 215 445 264
+cellphone 427 315 450 340

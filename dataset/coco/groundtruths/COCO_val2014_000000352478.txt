@@ -1,0 +1,10 @@
+person 3 12 81 131
+person 439 9 462 90
+bicycle 372 57 400 112
+broccoli 146 301 252 388
+broccoli 78 306 112 341
+broccoli 2 12 382 402
+person 462 27 474 74
+person 537 15 553 84
+person 610 18 618 62
+person 418 29 440 62

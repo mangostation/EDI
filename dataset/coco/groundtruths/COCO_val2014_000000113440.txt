@@ -1,0 +1,5 @@
+diningtable 0 137 639 421
+knife 190 63 558 156
+cake 161 110 455 350
+chair 2 72 117 199
+person 448 0 639 120

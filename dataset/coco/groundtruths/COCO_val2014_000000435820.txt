@@ -1,0 +1,13 @@
+bottle 6 402 32 458
+bottle 13 377 44 456
+bottle 53 420 73 507
+person 104 161 270 639
+person 225 172 387 632
+person 340 158 472 629
+wineglass 97 357 258 512
+umbrella 0 179 159 354
+umbrella 336 224 362 248
+bottle 0 447 18 532
+wineglass 446 355 477 416
+diningtable 15 480 228 639
+cup 1 442 62 515

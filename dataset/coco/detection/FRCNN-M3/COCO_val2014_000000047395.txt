@@ -1,0 +1,8 @@
+trafficlight 0.803317 0 68 52 106
+trafficlight 0.616185 28 79 52 105
+trafficlight 0.454400 14 78 48 105
+trafficlight 0.287614 0 74 15 98
+trafficlight 0.149292 1 73 32 101
+trafficlight 0.131445 243 279 273 368
+trafficlight 0.105618 0 77 7 96
+trafficlight 0.089189 20 81 37 103

@@ -1,0 +1,4 @@
+airplane 300 177 334 233
+airplane 182 265 223 318
+airplane 412 115 450 170
+airplane 540 68 575 122

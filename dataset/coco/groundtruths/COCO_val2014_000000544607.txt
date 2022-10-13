@@ -1,0 +1,7 @@
+umbrella 60 1 200 23
+person 185 72 276 347
+person 125 16 193 136
+person 191 8 220 64
+person 548 13 590 93
+frisbee 309 156 362 173
+person 33 91 291 345

@@ -1,0 +1,6 @@
+cellphone 402 332 467 397
+cellphone 416 292 492 341
+cellphone 107 311 149 359
+laptop 157 96 412 382
+mouse 370 310 418 362
+cellphone 99 283 161 314

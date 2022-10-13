@@ -1,0 +1,2 @@
+teddybear 35 16 583 412
+teddybear 550 18 639 225

@@ -1,0 +1,7 @@
+person 37 104 295 632
+person 353 176 425 558
+person 244 153 346 544
+person 235 185 282 221
+baseballbat 66 78 196 205
+baseballbat 332 387 402 567
+person 42 272 127 562

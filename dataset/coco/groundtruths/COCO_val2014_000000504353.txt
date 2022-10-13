@@ -1,0 +1,16 @@
+bed 3 319 637 474
+person 91 200 358 473
+teddybear 351 173 527 383
+teddybear 141 78 205 163
+teddybear 22 199 168 341
+teddybear 241 63 309 99
+teddybear 246 80 374 194
+teddybear 189 162 285 261
+teddybear 464 96 582 178
+teddybear 329 48 412 93
+teddybear 431 44 546 169
+teddybear 522 198 628 371
+teddybear 338 88 457 199
+teddybear 202 88 278 170
+teddybear 286 267 366 363
+teddybear 211 93 634 314

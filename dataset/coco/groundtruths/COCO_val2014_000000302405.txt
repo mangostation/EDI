@@ -1,0 +1,9 @@
+person 204 91 335 369
+person 138 105 192 262
+snowboard 150 317 198 370
+backpack 287 159 326 241
+snowboard 85 242 205 278
+snowboard 34 232 75 258
+snowboard 9 191 85 213
+person 28 168 75 213
+backpack 0 213 40 284

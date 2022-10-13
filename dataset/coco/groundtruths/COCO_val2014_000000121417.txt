@@ -1,0 +1,13 @@
+umbrella 162 79 435 321
+person 103 144 441 629
+person 45 1 111 99
+person 256 2 353 65
+person 411 0 442 55
+person 85 0 116 62
+handbag 222 319 287 376
+cellphone 238 183 263 208
+person 367 0 410 36
+person 158 0 262 56
+person 451 0 479 51
+person 204 0 243 33
+bench 332 412 478 501

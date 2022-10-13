@@ -1,0 +1,4 @@
+firehydrant 312 73 362 221
+person 98 70 152 286
+handbag 124 110 165 178
+handbag 96 193 161 282

@@ -1,0 +1,13 @@
+cake 73 339 333 512
+cake 61 62 355 582
+wineglass 113 49 125 84
+wineglass 205 37 212 66
+wineglass 281 25 291 55
+wineglass 53 73 72 100
+chair 135 34 178 65
+chair 215 27 250 53
+chair 0 64 35 91
+chair 46 46 93 75
+diningtable 1 339 426 639
+diningtable 1 94 172 273
+diningtable 0 37 395 193

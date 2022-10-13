@@ -1,0 +1,7 @@
+bottle 348 186 386 312
+bottle 263 185 302 311
+diningtable 77 294 446 353
+person 25 1 350 354
+person 360 1 639 351
+cellphone 231 113 258 149
+cup 311 242 353 306

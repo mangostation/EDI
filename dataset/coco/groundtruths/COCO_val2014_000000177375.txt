@@ -1,0 +1,16 @@
+toothbrush 200 87 241 148
+chair 571 267 639 473
+chair 340 183 388 234
+person 203 0 576 479
+person 114 1 262 272
+person 8 42 143 370
+book 230 209 322 251
+refrigerator 488 15 621 241
+person 0 1 91 473
+book 140 284 380 421
+person 482 60 523 173
+handbag 262 106 290 159
+handbag 106 21 147 53
+handbag 68 128 91 166
+handbag 64 24 89 53
+handbag 263 64 308 98

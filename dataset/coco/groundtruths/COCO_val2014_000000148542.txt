@@ -1,0 +1,14 @@
+chair 118 63 190 227
+suitcase 51 218 227 463
+suitcase 233 167 319 442
+person 136 19 171 68
+person 116 19 125 43
+person 174 26 203 74
+person 177 18 190 46
+person 119 0 145 42
+chair 131 42 155 70
+chair 193 42 203 58
+chair 152 43 180 74
+chair 182 47 193 57
+person 190 18 203 35
+pottedplant 290 0 329 62

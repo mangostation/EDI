@@ -1,0 +1,6 @@
+bicycle 460 311 639 472
+bicycle 235 271 333 337
+person 522 167 639 440
+person 236 201 293 334
+stopsign 562 155 598 190
+trafficlight 556 130 604 147

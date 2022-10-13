@@ -1,0 +1,2 @@
+donut 213 123 544 455
+diningtable 0 0 640 480

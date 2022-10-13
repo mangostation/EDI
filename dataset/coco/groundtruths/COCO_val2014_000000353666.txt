@@ -1,0 +1,6 @@
+cellphone 468 103 484 137
+person 3 509 338 616
+backpack 3 529 48 593
+sportsball 275 529 332 575
+person 33 422 213 553
+person 357 48 523 637

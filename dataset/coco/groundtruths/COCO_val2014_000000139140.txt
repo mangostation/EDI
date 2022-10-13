@@ -1,0 +1,7 @@
+horse 0 239 425 633
+person 0 33 263 485
+person 0 191 80 330
+person 250 218 289 277
+person 189 203 260 282
+truck 246 1 423 312
+person 46 207 90 295

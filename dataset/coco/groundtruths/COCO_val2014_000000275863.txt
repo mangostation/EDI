@@ -1,0 +1,6 @@
+chair 17 40 96 133
+person 123 131 306 396
+baseballbat 142 245 153 362
+bench 89 81 151 107
+chair 0 47 31 137
+chair 39 35 84 70

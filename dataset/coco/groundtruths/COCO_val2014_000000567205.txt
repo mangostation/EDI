@@ -1,0 +1,5 @@
+car 1 80 369 400
+car 294 74 577 175
+parkingmeter 296 141 349 333
+person 266 29 545 474
+cellphone 518 356 548 396

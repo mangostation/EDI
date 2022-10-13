@@ -1,0 +1,15 @@
+car 1 116 129 443
+firehydrant 212 269 281 404
+person 181 144 271 402
+handbag 252 189 292 290
+pottedplant 391 288 443 339
+pottedplant 239 104 313 197
+pottedplant 290 4 412 158
+pottedplant 508 30 585 132
+pottedplant 403 242 445 287
+car 194 235 639 454
+pottedplant 415 78 466 149
+pottedplant 141 267 211 330
+person 41 126 102 270
+pottedplant 191 238 197 254
+pottedplant 160 238 180 256

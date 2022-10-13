@@ -1,0 +1,7 @@
+teddybear 87 108 218 299
+teddybear 151 122 234 270
+teddybear 205 129 276 225
+teddybear 228 54 301 181
+chair 480 150 497 218
+diningtable 2 148 432 327
+chair 423 132 436 148

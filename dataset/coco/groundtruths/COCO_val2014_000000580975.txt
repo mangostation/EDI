@@ -1,0 +1,7 @@
+motorcycle 0 12 366 600
+motorcycle 144 107 346 377
+motorcycle 289 236 335 296
+motorcycle 217 174 345 324
+motorcycle 289 204 350 298
+motorcycle 246 189 297 267
+motorcycle 302 220 348 278

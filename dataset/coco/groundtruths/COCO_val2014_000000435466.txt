@@ -1,0 +1,6 @@
+bottle 325 214 344 275
+chair 0 392 63 597
+toaster 241 402 291 453
+bottle 343 219 364 268
+chair 37 378 78 580
+diningtable 0 379 42 419

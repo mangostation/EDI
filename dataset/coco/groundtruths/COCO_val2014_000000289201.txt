@@ -1,0 +1,6 @@
+refrigerator 460 126 551 376
+refrigerator 216 118 332 418
+refrigerator 332 117 449 380
+refrigerator 69 121 198 438
+chair 90 335 205 476
+person 542 91 639 454

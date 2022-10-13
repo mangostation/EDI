@@ -1,0 +1,5 @@
+bottle 63 42 145 353
+chair 0 142 59 228
+chair 148 67 427 356
+diningtable 0 210 424 630
+wineglass 164 156 252 370

@@ -1,0 +1,8 @@
+sandwich 315 314 599 473
+cup 37 68 160 330
+bowl 134 319 321 473
+fork 352 65 361 95
+knife 354 45 359 57
+knife 435 42 455 95
+diningtable 0 279 639 479
+diningtable 559 239 639 321

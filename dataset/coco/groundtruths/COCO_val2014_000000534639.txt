@@ -1,0 +1,5 @@
+car 24 199 48 221
+train 12 29 529 448
+train 529 179 625 241
+trafficlight 617 176 623 194
+trafficlight 547 89 568 125

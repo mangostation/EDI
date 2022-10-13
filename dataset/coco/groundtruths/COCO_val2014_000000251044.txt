@@ -1,0 +1,6 @@
+suitcase 264 166 499 329
+backpack 0 207 131 329
+suitcase 218 13 389 104
+backpack 119 177 267 312
+bench 259 0 484 176
+cellphone 413 88 437 98

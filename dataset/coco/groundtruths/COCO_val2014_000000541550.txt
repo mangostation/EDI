@@ -1,0 +1,4 @@
+pottedplant 2 260 144 436
+microwave 1 202 128 283
+oven 110 226 311 437
+sink 575 290 638 316

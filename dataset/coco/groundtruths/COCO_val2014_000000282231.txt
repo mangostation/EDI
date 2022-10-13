@@ -1,0 +1,2 @@
+tennisracket 348 247 598 444
+person 0 0 357 444

@@ -1,0 +1,4 @@
+person 35 161 161 495
+person 175 76 294 436
+baseballbat 46 339 99 480
+person 90 348 300 639

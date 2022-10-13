@@ -1,0 +1,17 @@
+teddybear 309 365 388 432
+teddybear 322 468 372 547
+teddybear 251 334 335 393
+teddybear 128 318 201 400
+teddybear 183 173 243 262
+chair 140 507 291 639
+teddybear 133 273 206 336
+knife 29 532 67 559
+diningtable 3 493 162 634
+teddybear 244 93 345 223
+teddybear 105 285 164 360
+teddybear 228 220 301 290
+teddybear 271 241 344 302
+teddybear 262 393 309 469
+teddybear 173 430 240 519
+teddybear 165 351 241 440
+teddybear 6 47 467 533

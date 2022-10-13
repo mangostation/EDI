@@ -1,0 +1,5 @@
+dog 146 281 209 330
+person 12 97 94 275
+surfboard 121 306 462 340
+surfboard 0 221 148 314
+person 266 146 339 328

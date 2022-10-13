@@ -1,0 +1,10 @@
+wineglass 171 1 238 79
+cup 47 0 113 74
+donut 30 306 280 507
+donut 225 257 409 396
+donut 76 196 237 312
+fork 174 67 238 135
+diningtable 0 51 480 639
+person 232 0 479 180
+wineglass 284 38 420 207
+cup 7 148 87 226

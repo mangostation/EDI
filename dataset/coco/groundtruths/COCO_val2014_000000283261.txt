@@ -1,0 +1,3 @@
+teddybear 1 70 287 468
+bed 0 209 640 480
+teddybear 452 118 635 300

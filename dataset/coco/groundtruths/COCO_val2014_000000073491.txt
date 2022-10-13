@@ -1,0 +1,10 @@
+person 50 14 338 382
+person 226 30 279 245
+person 74 24 148 292
+person 336 33 419 289
+baseballbat 297 89 447 154
+backpack 340 242 393 290
+sportsball 66 207 77 217
+person 266 0 359 292
+chair 0 172 70 293
+person 473 93 499 151

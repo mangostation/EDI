@@ -1,0 +1,6 @@
+cellphone 199 97 364 234
+cellphone 135 66 271 174
+cellphone 75 55 211 143
+cellphone 31 30 154 105
+cellphone 313 139 469 292
+diningtable 0 10 499 327

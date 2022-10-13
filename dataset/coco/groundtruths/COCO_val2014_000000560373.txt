@@ -1,0 +1,7 @@
+dog 15 230 192 490
+person 53 12 227 435
+suitcase 246 61 332 491
+person 51 96 80 129
+diningtable 232 185 333 249
+chair 215 200 249 341
+diningtable 3 182 60 190

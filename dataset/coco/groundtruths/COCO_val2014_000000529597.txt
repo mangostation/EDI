@@ -1,0 +1,6 @@
+car 107 40 265 111
+car 344 15 488 82
+car 499 9 623 64
+parkingmeter 347 100 639 470
+parkingmeter 0 136 353 473
+car 0 71 54 130

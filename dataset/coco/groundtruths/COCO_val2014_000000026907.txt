@@ -1,0 +1,7 @@
+couch 404 134 499 370
+sportsball 127 197 167 234
+person 125 109 256 371
+baseballglove 165 187 256 274
+sportsball 23 235 40 253
+bed 0 130 43 280
+chair 0 131 43 276

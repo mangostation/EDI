@@ -1,0 +1,2 @@
+toilet 44 375 196 638
+pottedplant 258 30 425 325

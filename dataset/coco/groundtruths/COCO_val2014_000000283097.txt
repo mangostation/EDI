@@ -1,0 +1,7 @@
+person 200 146 294 354
+suitcase 246 280 304 368
+suitcase 307 268 410 326
+suitcase 302 321 406 375
+suitcase 260 203 376 280
+bench 33 162 73 185
+suitcase 289 241 380 295

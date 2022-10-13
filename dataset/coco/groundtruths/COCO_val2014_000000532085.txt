@@ -1,0 +1,9 @@
+car 42 203 140 251
+parkingmeter 89 155 132 244
+trafficlight 275 14 294 56
+trafficlight 369 112 377 131
+trafficlight 194 119 207 143
+parkingmeter 3 199 11 216
+parkingmeter 12 198 19 213
+parkingmeter 131 159 167 242
+car 318 184 446 246

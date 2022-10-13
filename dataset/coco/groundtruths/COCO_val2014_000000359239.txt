@@ -1,0 +1,8 @@
+diningtable 0 1 639 474
+fork 0 111 62 442
+fork 223 36 431 72
+fork 41 113 114 429
+knife 234 20 639 244
+pizza 50 56 578 429
+wineglass 324 0 402 21
+wineglass 226 0 311 33

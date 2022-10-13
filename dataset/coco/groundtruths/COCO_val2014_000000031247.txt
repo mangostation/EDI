@@ -1,0 +1,4 @@
+broccoli 10 90 180 272
+broccoli 351 320 384 355
+bowl 373 69 533 221
+bottle 0 0 130 194

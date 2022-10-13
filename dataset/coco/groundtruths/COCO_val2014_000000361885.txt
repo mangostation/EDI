@@ -1,0 +1,5 @@
+pottedplant 101 73 134 117
+couch 0 123 61 237
+chair 75 105 99 148
+person 164 0 245 235
+remote 209 64 231 89

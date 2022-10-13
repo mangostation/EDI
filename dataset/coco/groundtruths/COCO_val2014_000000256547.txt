@@ -1,0 +1,5 @@
+person 251 17 352 148
+person 354 47 448 283
+person 294 1 384 48
+baseballbat 385 49 465 59
+baseballglove 324 121 347 152

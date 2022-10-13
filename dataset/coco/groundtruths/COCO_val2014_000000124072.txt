@@ -1,0 +1,10 @@
+wineglass 488 335 507 380
+cake 359 280 418 353
+wineglass 465 316 486 364
+wineglass 327 354 355 400
+wineglass 413 310 430 351
+wineglass 237 315 260 374
+wineglass 264 335 290 394
+diningtable 204 282 562 603
+diningtable 507 313 623 438
+knife 220 378 271 387

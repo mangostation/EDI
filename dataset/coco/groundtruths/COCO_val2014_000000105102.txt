@@ -1,0 +1,4 @@
+diningtable 0 51 611 632
+fork 0 499 607 632
+knife 0 506 319 639
+broccoli 382 51 570 202

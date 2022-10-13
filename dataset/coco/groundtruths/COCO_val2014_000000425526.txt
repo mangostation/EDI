@@ -1,0 +1,10 @@
+sandwich 179 103 418 285
+sandwich 293 45 433 152
+diningtable 0 2 498 370
+fork 127 47 161 76
+bowl 0 2 54 76
+bowl 462 4 499 54
+orange 417 133 487 207
+knife 0 65 134 157
+apple 197 120 238 170
+apple 156 95 211 138

@@ -1,0 +1,10 @@
+clock 616 0 639 48
+broccoli 217 286 242 305
+person 214 72 305 291
+person 273 71 389 280
+person 259 95 445 356
+person 255 0 640 418
+person 123 70 281 222
+knife 176 248 260 280
+refrigerator 74 0 245 212
+person 199 55 275 211

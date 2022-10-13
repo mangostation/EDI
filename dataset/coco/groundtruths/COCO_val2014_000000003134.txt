@@ -1,0 +1,10 @@
+bus 0 32 377 339
+person 230 194 252 222
+person 190 177 233 221
+truck 454 203 492 246
+trafficlight 380 102 390 129
+trafficlight 516 147 527 180
+trafficlight 518 205 529 215
+firehydrant 527 241 535 256
+parkingmeter 517 231 526 247
+firehydrant 626 262 639 282

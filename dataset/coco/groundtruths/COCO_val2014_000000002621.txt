@@ -1,0 +1,3 @@
+trafficlight 376 86 440 182
+trafficlight 345 85 405 229
+trafficlight 438 94 480 178

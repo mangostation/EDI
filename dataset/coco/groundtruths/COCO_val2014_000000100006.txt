@@ -1,0 +1,2 @@
+truck 0 21 639 420
+diningtable 483 285 639 382

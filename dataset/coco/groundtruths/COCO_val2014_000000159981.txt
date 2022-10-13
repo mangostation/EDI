@@ -1,0 +1,5 @@
+sandwich 33 284 440 585
+chair 464 0 611 177
+cup 257 15 454 310
+diningtable 0 1 612 605
+hotdog 37 291 435 587

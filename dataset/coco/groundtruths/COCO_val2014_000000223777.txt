@@ -1,0 +1,10 @@
+pottedplant 407 221 422 249
+pottedplant 423 227 437 249
+train 434 121 626 292
+bench 247 234 293 261
+bench 305 234 340 257
+bench 387 231 415 251
+pottedplant 117 224 139 264
+pottedplant 33 210 49 232
+pottedplant 96 231 120 265
+pottedplant 338 215 362 254

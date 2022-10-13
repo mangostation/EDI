@@ -1,0 +1,4 @@
+motorcycle 43 15 607 397
+person 132 41 186 126
+person 183 90 207 119
+chair 530 162 567 211

@@ -1,0 +1,7 @@
+dog 106 288 318 485
+person 385 57 547 419
+person 266 37 414 398
+person 148 50 315 326
+person 65 8 197 323
+baseballbat 177 267 389 401
+bottle 77 265 92 319

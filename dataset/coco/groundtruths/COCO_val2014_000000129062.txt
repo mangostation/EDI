@@ -1,0 +1,7 @@
+umbrella 451 302 586 351
+parkingmeter 0 198 112 474
+person 532 343 624 474
+diningtable 431 425 512 479
+diningtable 106 424 296 479
+diningtable 312 416 491 476
+parkingmeter 143 381 163 426

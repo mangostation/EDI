@@ -1,0 +1,17 @@
+person 431 4 499 108
+handbag 29 103 49 202
+person 144 0 171 26
+person 161 5 174 37
+zebra 178 14 528 164
+zebra 552 47 639 200
+zebra 65 95 171 281
+zebra 76 9 558 413
+cellphone 9 182 32 207
+person 0 20 55 116
+person 94 7 104 17
+person 614 8 639 238
+person 0 23 55 289
+person 50 0 87 69
+person 0 196 46 426
+person 79 7 95 43
+person 475 18 502 63

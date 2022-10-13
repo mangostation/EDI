@@ -1,0 +1,8 @@
+person 200 198 630 442
+bottle 88 11 125 93
+bottle 201 0 223 33
+toilet 364 114 541 427
+bottle 171 0 204 34
+bottle 78 35 100 95
+bottle 224 0 240 29
+sink 94 106 162 151

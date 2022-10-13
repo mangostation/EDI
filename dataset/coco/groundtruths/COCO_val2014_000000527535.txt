@@ -1,0 +1,8 @@
+diningtable 0 36 639 418
+person 0 0 187 104
+cup 276 0 351 94
+banana 341 272 404 325
+cake 112 64 559 356
+cake 1 141 84 261
+diningtable 296 325 637 420
+person 587 0 639 45

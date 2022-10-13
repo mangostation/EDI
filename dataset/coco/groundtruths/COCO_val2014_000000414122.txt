@@ -1,0 +1,6 @@
+scissors 19 259 540 351
+scissors 19 186 508 303
+scissors 20 144 323 257
+scissors 26 138 195 229
+scissors 22 96 237 154
+scissors 20 77 143 120

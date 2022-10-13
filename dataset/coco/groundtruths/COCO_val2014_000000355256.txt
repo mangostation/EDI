@@ -1,0 +1,6 @@
+donut 162 308 245 345
+person 4 64 314 639
+bottle 326 303 350 378
+microwave 215 218 338 288
+refrigerator 1 187 51 571
+chair 251 488 364 639

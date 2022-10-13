@@ -1,0 +1,5 @@
+bottle 150 6 234 301
+bottle 65 4 144 138
+person 0 117 279 449
+bottle 0 0 63 310
+laptop 234 0 359 444

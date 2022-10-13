@@ -1,0 +1,4 @@
+trafficlight 267 9 401 273
+trafficlight 109 304 123 332
+trafficlight 220 118 265 227
+stopsign 285 309 374 328

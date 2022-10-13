@@ -1,0 +1,4 @@
+person 277 0 498 344
+person 474 2 639 393
+cake 244 273 569 473
+diningtable 0 366 640 479

@@ -1,0 +1,5 @@
+wineglass 158 1 309 169
+diningtable 0 0 612 605
+bowl 62 5 186 84
+bowl 0 57 117 144
+cake 185 113 391 295

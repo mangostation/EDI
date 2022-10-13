@@ -1,0 +1,8 @@
+chair 395 255 418 283
+firehydrant 363 384 445 568
+chair 352 257 371 290
+pottedplant 285 270 312 298
+pottedplant 310 277 327 294
+chair 410 258 423 284
+chair 413 265 424 283
+firehydrant 243 92 288 150

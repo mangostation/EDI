@@ -1,0 +1,10 @@
+teddybear 55 238 142 343
+teddybear 1 273 39 373
+book 459 348 499 374
+teddybear 183 360 247 374
+book 457 203 499 314
+book 449 201 475 315
+teddybear 129 240 221 340
+teddybear 207 241 287 342
+teddybear 281 238 366 340
+teddybear 347 236 436 341

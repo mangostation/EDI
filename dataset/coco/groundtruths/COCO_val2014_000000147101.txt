@@ -1,0 +1,17 @@
+person 138 3 370 355
+person 479 0 538 83
+person 2 16 179 160
+skateboard 285 302 360 383
+skateboard 14 153 105 173
+skateboard 548 145 639 163
+bench 89 127 157 137
+bench 369 108 574 120
+bench 415 82 558 94
+bench 454 60 545 71
+bench 509 30 554 63
+handbag 523 21 552 40
+person 557 0 639 152
+person 537 0 634 84
+person 167 0 238 168
+person 45 43 114 169
+bicycle 171 74 221 129

@@ -1,0 +1,15 @@
+bottle 502 1 558 179
+bottle 439 0 486 182
+bottle 606 59 639 171
+bottle 349 8 371 83
+chair 349 67 391 139
+diningtable 0 138 638 419
+person 227 36 285 143
+wineglass 376 67 479 282
+wineglass 537 64 639 324
+wineglass 252 71 355 283
+wineglass 137 79 248 290
+wineglass 22 89 153 327
+bottle 622 12 638 65
+person 0 0 122 93
+chair 0 95 73 256

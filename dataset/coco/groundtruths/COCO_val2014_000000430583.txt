@@ -1,0 +1,4 @@
+firehydrant 263 57 460 368
+bench 0 5 95 99
+bench 135 6 211 52
+bench 145 5 414 173

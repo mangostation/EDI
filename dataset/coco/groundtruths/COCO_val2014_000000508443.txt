@@ -1,0 +1,5 @@
+diningtable 0 1 424 632
+wineglass 103 0 313 222
+pizza 22 345 225 553
+pizza 128 207 427 411
+pizza 210 416 422 618

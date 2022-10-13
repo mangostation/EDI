@@ -1,0 +1,11 @@
+person 238 190 375 472
+person 174 164 212 284
+person 536 152 560 200
+baseballbat 215 181 378 348
+person 426 134 588 473
+baseballglove 176 212 199 229
+baseballglove 545 171 559 182
+person 226 145 250 193
+baseballbat 422 81 436 234
+clock 448 261 458 270
+person 115 148 132 182

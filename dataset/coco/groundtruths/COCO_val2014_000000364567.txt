@@ -1,0 +1,9 @@
+horse 226 181 459 334
+person 290 135 394 264
+zebra 116 216 187 427
+zebra 5 213 97 420
+zebra 331 280 387 385
+zebra 429 216 483 390
+pottedplant 529 345 565 364
+pottedplant 0 397 47 439
+pottedplant 578 340 611 361

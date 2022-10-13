@@ -1,0 +1,6 @@
+airplane 0 225 497 504
+truck 416 388 463 409
+truck 146 457 192 523
+airplane 149 373 501 638
+person 204 419 225 454
+airplane 1 303 321 372

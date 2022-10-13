@@ -1,0 +1,14 @@
+cup 306 12 411 163
+cup 1 0 60 96
+fork 105 313 230 426
+knife 411 125 625 224
+spoon 123 119 197 215
+bowl 91 120 196 259
+bowl 152 65 284 170
+broccoli 236 280 310 339
+wineglass 302 11 414 168
+wineglass 0 0 60 98
+wineglass 0 209 54 389
+cup 0 215 54 394
+diningtable 0 0 640 421
+broccoli 226 242 279 291

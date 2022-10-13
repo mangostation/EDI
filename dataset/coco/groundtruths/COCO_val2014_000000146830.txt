@@ -1,0 +1,11 @@
+person 165 428 332 629
+person 117 257 226 373
+person 121 388 212 601
+person 272 54 303 126
+person 417 145 426 263
+baseballbat 122 361 183 410
+baseballglove 117 287 135 307
+sportsball 238 283 246 290
+person 234 455 394 608
+baseballglove 284 81 293 89
+baseballglove 319 486 337 496

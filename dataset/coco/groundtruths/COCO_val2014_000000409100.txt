@@ -1,0 +1,10 @@
+pottedplant 105 214 224 292
+pottedplant 19 262 89 420
+pottedplant 149 330 173 370
+person 108 81 493 473
+chair 371 173 476 338
+tie 293 243 348 467
+pottedplant 115 274 161 327
+chair 450 202 613 478
+pottedplant 165 280 188 323
+diningtable 504 385 639 473

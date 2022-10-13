@@ -1,0 +1,4 @@
+diningtable 0 299 639 474
+hotdog 153 304 345 410
+hotdog 389 287 558 348
+bottle 18 108 110 382

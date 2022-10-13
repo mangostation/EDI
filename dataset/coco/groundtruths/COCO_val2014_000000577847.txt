@@ -1,0 +1,4 @@
+orange 312 262 433 393
+orange 235 280 340 406
+diningtable 1 1 639 451
+hotdog 352 33 535 370

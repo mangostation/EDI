@@ -1,0 +1,8 @@
+sandwich 99 146 281 268
+chair 546 0 631 91
+diningtable 0 54 639 426
+cup 353 55 622 408
+knife 0 201 62 225
+person 0 0 245 66
+chair 523 0 543 68
+sandwich 91 94 215 180

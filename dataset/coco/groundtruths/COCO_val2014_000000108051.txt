@@ -1,0 +1,7 @@
+bottle 430 5 486 82
+diningtable 7 7 633 339
+cup 460 88 546 220
+cup 319 8 371 105
+pizza 194 123 443 295
+person 418 7 631 171
+bottle 74 8 121 51

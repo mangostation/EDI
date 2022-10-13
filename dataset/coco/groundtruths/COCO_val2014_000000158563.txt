@@ -1,0 +1,2 @@
+firehydrant 252 49 482 478
+person 118 1 377 434

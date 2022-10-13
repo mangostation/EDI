@@ -1,0 +1,4 @@
+snowboard 290 165 406 632
+person 39 30 307 639
+chair 10 242 76 329
+person 0 232 64 360

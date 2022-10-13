@@ -1,0 +1,6 @@
+bottle 250 0 348 212
+bottle 363 1 468 239
+bottle 2 1 98 281
+diningtable 3 160 639 475
+pizza 67 259 550 451
+bottle 83 1 182 239

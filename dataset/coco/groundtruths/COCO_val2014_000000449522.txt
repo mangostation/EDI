@@ -1,0 +1,8 @@
+sandwich 250 266 349 346
+sandwich 217 291 284 358
+sandwich 438 357 539 426
+person 162 2 493 312
+bowl 152 285 231 338
+diningtable 1 269 639 426
+bottle 46 200 127 420
+bottle 0 302 49 390

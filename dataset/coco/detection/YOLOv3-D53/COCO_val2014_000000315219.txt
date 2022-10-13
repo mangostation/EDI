@@ -1,0 +1,2 @@
+refrigerator 0.048771 119 6 310 488
+trafficlight 0.013260 133 0 294 134

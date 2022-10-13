@@ -1,0 +1,8 @@
+wineglass 0 0 81 201
+wineglass 95 2 198 42
+pizza 65 19 561 443
+wineglass 312 0 406 36
+spoon 366 0 496 31
+bowl 0 231 40 364
+wineglass 586 150 639 250
+diningtable 461 1 618 181

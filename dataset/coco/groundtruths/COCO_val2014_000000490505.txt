@@ -1,0 +1,8 @@
+diningtable 1 136 477 631
+person 2 1 277 138
+person 424 140 477 191
+oven 207 1 401 141
+vase 169 395 275 540
+book 14 601 96 638
+pottedplant 7 72 445 542
+book 0 417 88 592

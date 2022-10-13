@@ -1,0 +1,5 @@
+stopsign 294 192 369 272
+pottedplant 360 325 399 362
+pottedplant 370 287 424 362
+pottedplant 402 198 422 223
+pottedplant 338 326 362 353

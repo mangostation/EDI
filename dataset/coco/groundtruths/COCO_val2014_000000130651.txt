@@ -1,0 +1,6 @@
+trafficlight 595 167 604 185
+trafficlight 593 129 607 161
+trafficlight 42 145 52 175
+bench 324 376 607 441
+bench 23 367 273 439
+trafficlight 61 177 75 199

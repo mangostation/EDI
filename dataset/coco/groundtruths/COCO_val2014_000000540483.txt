@@ -1,0 +1,4 @@
+elephant 373 221 536 302
+elephant 266 249 375 320
+elephant 57 251 170 335
+elephant 180 251 254 306

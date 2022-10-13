@@ -1,0 +1,9 @@
+bicycle 488 170 639 423
+car 38 42 84 154
+motorcycle 13 39 293 332
+motorcycle 179 26 639 418
+person 383 66 415 103
+person 559 63 609 161
+parkingmeter 462 58 472 71
+person 272 61 311 162
+person 349 60 392 153

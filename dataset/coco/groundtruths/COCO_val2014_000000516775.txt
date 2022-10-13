@@ -1,0 +1,5 @@
+person 437 404 448 429
+trafficlight 199 347 213 366
+trafficlight 34 338 49 358
+trafficlight 405 358 413 373
+trafficlight 357 379 370 388

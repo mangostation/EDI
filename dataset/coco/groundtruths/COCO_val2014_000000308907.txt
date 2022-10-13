@@ -1,0 +1,6 @@
+trafficlight 141 139 160 179
+person 3 249 11 275
+pottedplant 66 285 79 314
+pottedplant 50 285 68 311
+pottedplant 83 282 97 313
+bicycle 7 263 9 275

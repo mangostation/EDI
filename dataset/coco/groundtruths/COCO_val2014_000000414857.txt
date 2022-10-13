@@ -1,0 +1,2 @@
+person 1 1 439 328
+hairdrier 0 0 137 71

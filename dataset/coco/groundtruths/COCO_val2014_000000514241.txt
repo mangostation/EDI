@@ -1,0 +1,4 @@
+toothbrush 418 112 548 592
+toothbrush 520 0 605 320
+toothbrush 266 0 324 74
+toothbrush 88 55 208 503

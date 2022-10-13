@@ -1,0 +1,17 @@
+sportsball 259 217 268 223
+baseballglove 32 143 51 162
+baseballglove 361 264 385 286
+person 269 108 315 231
+person 30 118 98 278
+person 609 152 639 270
+person 230 202 415 380
+person 449 90 497 154
+person 179 64 215 132
+person 32 70 77 133
+person 88 93 112 120
+person 108 60 148 122
+person 162 107 185 138
+person 69 51 98 82
+person 543 76 583 120
+person 408 85 438 121
+person 1 0 639 217

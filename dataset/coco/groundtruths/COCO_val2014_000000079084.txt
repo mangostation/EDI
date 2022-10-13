@@ -1,0 +1,16 @@
+tennisracket 161 119 235 191
+person 211 45 382 333
+person 313 31 376 139
+person 19 72 67 140
+person 174 17 228 107
+person 122 39 177 139
+person 67 53 152 143
+person 0 24 36 102
+person 167 66 243 138
+person 267 3 315 90
+person 365 22 408 141
+person 477 1 499 74
+backpack 157 48 171 84
+person 385 13 486 145
+person 0 99 37 139
+person 17 0 499 297

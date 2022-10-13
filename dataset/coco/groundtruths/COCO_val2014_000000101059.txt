@@ -1,0 +1,5 @@
+chair 0 316 187 590
+chair 295 393 417 514
+diningtable 13 446 429 631
+vase 196 389 275 552
+pottedplant 122 258 391 557

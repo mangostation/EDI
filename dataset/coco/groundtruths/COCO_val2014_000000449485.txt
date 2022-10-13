@@ -1,0 +1,4 @@
+person 81 38 248 372
+pottedplant 171 277 268 358
+book 111 128 181 222
+suitcase 102 308 282 493

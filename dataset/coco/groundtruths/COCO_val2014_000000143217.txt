@@ -1,0 +1,8 @@
+train 376 130 639 350
+person 5 263 27 321
+stopsign 228 230 248 253
+clock 321 217 338 235
+bench 250 311 280 325
+pottedplant 187 301 210 326
+pottedplant 284 254 378 325
+pottedplant 209 261 229 291

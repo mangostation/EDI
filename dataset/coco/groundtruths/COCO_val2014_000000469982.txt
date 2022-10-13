@@ -1,0 +1,12 @@
+chair 152 88 286 240
+chair 178 20 272 123
+chair 489 138 639 295
+chair 3 49 101 183
+person 107 2 636 471
+person 99 2 225 181
+donut 189 208 355 334
+chair 567 134 636 221
+diningtable 0 342 128 479
+diningtable 579 52 639 85
+diningtable 232 83 262 108
+diningtable 25 0 165 185

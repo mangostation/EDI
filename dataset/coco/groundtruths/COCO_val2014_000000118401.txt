@@ -1,0 +1,6 @@
+elephant 310 173 391 231
+elephant 87 170 180 231
+elephant 397 198 444 230
+elephant 491 190 529 230
+elephant 527 189 583 231
+giraffe 182 172 261 237

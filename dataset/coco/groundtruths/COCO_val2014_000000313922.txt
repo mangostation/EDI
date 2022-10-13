@@ -1,0 +1,6 @@
+person 1 11 394 639
+person 299 85 398 272
+handbag 386 237 480 313
+suitcase 249 296 480 637
+handbag 20 149 322 374
+chair 1 243 191 627

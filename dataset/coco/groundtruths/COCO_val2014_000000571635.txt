@@ -1,0 +1,7 @@
+bottle 403 334 426 409
+toilet 71 340 229 507
+sink 209 317 387 590
+bottle 277 270 297 327
+pottedplant 381 247 427 341
+toothbrush 358 406 394 416
+toothbrush 354 402 380 411

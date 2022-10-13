@@ -1,0 +1,4 @@
+elephant 179 34 562 402
+elephant 395 0 600 54
+person 508 256 532 338
+person 414 259 437 365

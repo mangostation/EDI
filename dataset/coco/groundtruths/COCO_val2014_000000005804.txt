@@ -1,0 +1,6 @@
+pottedplant 232 19 311 129
+cat 54 118 208 218
+chair 5 233 365 631
+laptop 185 74 429 283
+keyboard 227 203 370 249
+chair 299 3 455 240

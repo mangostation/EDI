@@ -1,0 +1,7 @@
+fork 328 18 358 55
+spoon 147 92 250 110
+bowl 245 56 484 253
+sandwich 48 132 250 297
+cup 170 2 269 31
+knife 319 15 378 62
+diningtable 1 2 499 365

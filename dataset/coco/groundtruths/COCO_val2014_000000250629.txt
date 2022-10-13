@@ -1,0 +1,9 @@
+umbrella 105 3 589 145
+person 236 50 497 418
+person 46 81 251 387
+handbag 62 335 292 422
+cellphone 368 358 400 384
+clock 380 261 394 277
+person 494 95 622 350
+person 597 119 639 423
+umbrella 570 73 639 123

@@ -1,0 +1,6 @@
+chair 55 267 243 454
+person 69 40 354 406
+person 189 75 245 124
+person 0 1 202 319
+tie 120 56 130 71
+diningtable 0 311 297 499

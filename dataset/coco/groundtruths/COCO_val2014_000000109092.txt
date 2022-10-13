@@ -1,0 +1,5 @@
+tie 409 181 460 345
+person 123 0 499 394
+hotdog 119 258 193 317
+person 196 37 372 244
+pottedplant 1 140 148 399

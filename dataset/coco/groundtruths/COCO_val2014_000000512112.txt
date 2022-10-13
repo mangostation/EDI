@@ -1,0 +1,5 @@
+bed 0 252 479 639
+person 160 0 479 604
+teddybear 437 136 479 197
+teddybear 205 355 303 439
+teddybear 428 279 479 350

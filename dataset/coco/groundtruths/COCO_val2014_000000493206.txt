@@ -1,0 +1,9 @@
+bowl 396 0 548 94
+broccoli 297 243 407 395
+broccoli 239 161 328 239
+broccoli 291 76 404 139
+broccoli 168 133 232 210
+broccoli 380 298 451 368
+spoon 211 0 341 100
+bowl 7 4 545 472
+broccoli 441 312 457 324

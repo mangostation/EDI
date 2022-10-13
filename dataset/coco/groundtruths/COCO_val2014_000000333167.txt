@@ -1,0 +1,9 @@
+person 33 83 332 417
+person 1 298 353 451
+person 159 75 291 290
+person 9 109 47 264
+handbag 222 137 286 289
+handbag 49 213 92 327
+person 402 11 619 451
+tie 427 188 510 310
+person 29 68 77 224

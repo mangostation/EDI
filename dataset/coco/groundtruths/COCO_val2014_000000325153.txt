@@ -1,0 +1,7 @@
+couch 0 7 85 192
+suitcase 299 129 396 220
+suitcase 162 146 296 216
+suitcase 64 192 240 275
+suitcase 243 186 429 278
+chair 357 23 499 140
+chair 320 74 478 175

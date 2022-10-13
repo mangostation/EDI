@@ -1,0 +1,6 @@
+firehydrant 404 110 572 473
+person 212 86 265 161
+person 154 79 203 133
+person 53 122 81 147
+person 13 116 35 136
+person 34 100 63 146

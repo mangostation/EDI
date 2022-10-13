@@ -1,0 +1,10 @@
+pottedplant 301 287 380 358
+pottedplant 238 310 270 371
+teddybear 45 266 108 334
+pottedplant 331 57 384 104
+pottedplant 318 96 335 118
+pottedplant 335 97 345 117
+pottedplant 347 418 418 477
+pottedplant 195 80 326 346
+pottedplant 113 234 188 369
+vase 239 339 272 369

@@ -1,0 +1,2 @@
+refrigerator 24 68 409 558
+microwave 0 247 52 371

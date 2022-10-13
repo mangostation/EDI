@@ -1,0 +1,4 @@
+diningtable 1 56 638 418
+wineglass 296 1 533 294
+wineglass 449 0 639 258
+wineglass 80 1 289 324

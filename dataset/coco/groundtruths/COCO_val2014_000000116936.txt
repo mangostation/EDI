@@ -1,0 +1,7 @@
+umbrella 0 130 16 142
+umbrella 71 125 121 170
+chair 47 158 58 170
+chair 39 159 48 169
+chair 6 160 24 169
+person 296 119 313 170
+person 360 121 379 169

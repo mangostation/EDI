@@ -1,0 +1,7 @@
+wineglass 125 99 237 305
+wineglass 93 81 183 288
+wineglass 44 64 138 258
+bowl 304 278 400 304
+bowl 354 152 435 198
+diningtable 0 30 500 331
+book 113 29 430 198

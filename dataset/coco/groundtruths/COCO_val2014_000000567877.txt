@@ -1,0 +1,12 @@
+diningtable 369 241 639 321
+diningtable 0 245 211 358
+person 102 9 330 359
+person 426 146 518 252
+person 546 86 639 203
+person 82 110 159 242
+chair 317 0 638 355
+chair 0 0 289 360
+cake 6 242 141 291
+cake 437 242 577 300
+couch 320 0 639 353
+couch 0 152 67 210

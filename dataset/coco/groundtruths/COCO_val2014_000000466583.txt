@@ -1,0 +1,4 @@
+toothbrush 108 370 117 384
+toothbrush 113 368 120 383
+sink 21 389 150 458
+pottedplant 0 388 24 440

@@ -1,0 +1,5 @@
+sandwich 229 349 361 454
+diningtable 5 448 243 632
+person 1 42 365 480
+person 366 98 474 428
+knife 186 496 263 632

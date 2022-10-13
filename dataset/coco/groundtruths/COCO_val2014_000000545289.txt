@@ -1,0 +1,6 @@
+sandwich 108 91 349 257
+diningtable 0 1 499 327
+person 1 1 307 179
+cup 249 0 365 83
+sandwich 105 169 409 300
+pizza 104 86 407 304

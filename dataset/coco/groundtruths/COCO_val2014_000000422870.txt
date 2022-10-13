@@ -1,0 +1,3 @@
+motorcycle 320 117 463 286
+motorcycle 187 127 323 284
+truck 90 245 519 457

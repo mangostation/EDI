@@ -1,0 +1,4 @@
+cellphone 155 262 203 276
+cellphone 149 256 187 263
+person 119 98 342 612
+chair 0 214 45 320

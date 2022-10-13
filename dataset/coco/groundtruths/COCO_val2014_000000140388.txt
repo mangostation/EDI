@@ -1,0 +1,4 @@
+diningtable 0 339 429 633
+knife 66 420 112 498
+cake 0 421 399 625
+person 93 28 393 440

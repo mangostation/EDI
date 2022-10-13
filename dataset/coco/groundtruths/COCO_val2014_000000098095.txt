@@ -1,0 +1,9 @@
+cellphone 4 459 22 470
+person 117 73 373 494
+person 69 346 219 499
+person 162 339 243 499
+couch 1 367 195 434
+remote 134 442 207 485
+person 0 344 75 499
+cellphone 227 462 239 474
+remote 134 260 159 276

@@ -1,0 +1,7 @@
+trafficlight 362 238 382 249
+trafficlight 305 236 326 249
+trafficlight 150 0 237 24
+trafficlight 422 0 501 21
+firehydrant 101 320 113 347
+firehydrant 199 322 205 333
+car 220 302 238 314

@@ -1,0 +1,7 @@
+sandwich 195 147 478 374
+bowl 1 20 112 124
+scissors 497 396 639 472
+scissors 79 258 155 307
+spoon 303 0 357 79
+bowl 484 100 525 130
+spoon 349 30 365 54

@@ -1,0 +1,3 @@
+firehydrant 576 281 625 393
+person 36 278 93 400
+person 33 270 51 314

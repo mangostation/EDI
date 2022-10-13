@@ -1,0 +1,5 @@
+couch 87 193 479 574
+person 58 67 452 576
+remote 169 351 200 387
+remote 405 323 435 351
+pottedplant 0 436 57 578

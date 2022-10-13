@@ -1,0 +1,3 @@
+keyboard 2 218 639 473
+teddybear 134 91 247 268
+teddybear 374 98 466 255

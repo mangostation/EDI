@@ -1,0 +1,16 @@
+person 120 125 374 490
+person 172 210 189 255
+person 182 201 202 254
+person 160 208 174 257
+person 98 210 110 224
+person 113 204 130 240
+person 86 203 99 233
+person 75 210 85 241
+person 22 210 33 239
+trafficlight 6 168 18 180
+person 44 207 57 241
+person 31 211 39 239
+trafficlight 73 167 88 192
+trafficlight 270 166 280 186
+trafficlight 164 166 178 200
+umbrella 169 197 193 203

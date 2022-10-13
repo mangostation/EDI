@@ -1,0 +1,3 @@
+teddybear 112 47 330 323
+bench 0 235 500 370
+backpack 52 128 196 279

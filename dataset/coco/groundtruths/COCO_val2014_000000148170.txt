@@ -1,0 +1,3 @@
+toothbrush 182 221 248 290
+person 14 60 280 375
+person 0 0 139 295

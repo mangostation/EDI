@@ -1,0 +1,7 @@
+knife 77 0 269 159
+carrot 234 0 314 188
+carrot 261 0 371 260
+carrot 379 3 426 220
+carrot 427 0 474 208
+knife 52 0 188 150
+person 454 1 499 107

@@ -1,0 +1,8 @@
+car 58 189 179 231
+truck 172 44 509 400
+trafficlight 86 56 97 93
+trafficlight 13 65 26 91
+car 0 201 26 285
+trafficlight 1 66 12 90
+person 366 154 427 206
+person 42 225 70 288

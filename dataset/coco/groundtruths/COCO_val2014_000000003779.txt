@@ -1,0 +1,15 @@
+diningtable 1 0 639 474
+wineglass 253 47 374 354
+wineglass 474 46 627 334
+wineglass 3 38 157 343
+wineglass 425 32 530 246
+wineglass 77 22 185 248
+wineglass 101 8 197 148
+wineglass 404 0 452 99
+bowl 19 86 98 144
+person 435 0 528 63
+wineglass 269 24 348 50
+wineglass 389 0 437 86
+wineglass 563 0 613 48
+wineglass 596 3 639 64
+wineglass 325 0 375 56

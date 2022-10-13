@@ -1,0 +1,3 @@
+motorcycle 316 246 401 293
+person 340 220 379 286
+stopsign 114 65 233 179

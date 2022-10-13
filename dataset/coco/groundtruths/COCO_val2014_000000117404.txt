@@ -1,0 +1,3 @@
+person 81 37 441 486
+teddybear 28 283 147 453
+person 0 394 480 632

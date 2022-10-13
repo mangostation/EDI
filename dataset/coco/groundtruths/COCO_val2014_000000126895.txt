@@ -1,0 +1,6 @@
+person 28 119 328 411
+person 263 98 591 376
+baseballglove 305 143 358 219
+person 249 50 322 224
+bench 215 249 639 276
+bottle 372 217 387 259

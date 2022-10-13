@@ -1,0 +1,2 @@
+teddybear 326 143 412 303
+teddybear 405 141 510 339

@@ -1,0 +1,10 @@
+diningtable 0 0 639 410
+cup 419 129 595 324
+cup 244 0 363 162
+cup 522 0 639 124
+spoon 558 258 626 364
+chair 0 0 84 201
+person 141 0 189 12
+fork 435 0 485 51
+sandwich 292 106 461 299
+sandwich 93 101 252 281

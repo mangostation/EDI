@@ -1,0 +1,15 @@
+teddybear 304 112 342 174
+teddybear 384 93 442 160
+handbag 226 313 321 376
+suitcase 326 372 485 474
+suitcase 110 319 221 444
+suitcase 211 148 319 272
+suitcase 223 364 338 452
+suitcase 69 288 135 393
+suitcase 104 244 164 325
+suitcase 221 272 319 355
+suitcase 315 336 439 381
+suitcase 313 280 437 339
+teddybear 436 334 468 373
+suitcase 283 49 439 152
+suitcase 314 154 436 282

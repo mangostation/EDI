@@ -1,0 +1,9 @@
+refrigerator 230 135 330 362
+refrigerator 151 150 236 362
+refrigerator 67 112 158 236
+refrigerator 435 150 547 359
+refrigerator 36 158 72 323
+refrigerator 468 117 563 259
+refrigerator 107 100 213 153
+refrigerator 475 254 612 418
+refrigerator 72 233 154 348

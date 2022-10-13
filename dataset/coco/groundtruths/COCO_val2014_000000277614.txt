@@ -1,0 +1,6 @@
+train 2 147 387 347
+stopsign 498 265 509 278
+clock 544 58 561 76
+clock 569 58 577 74
+trafficlight 400 154 411 165
+trafficlight 388 149 399 162

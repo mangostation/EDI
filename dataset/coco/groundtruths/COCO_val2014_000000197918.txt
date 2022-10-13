@@ -1,0 +1,5 @@
+person 14 113 316 630
+teddybear 0 315 114 580
+teddybear 178 51 383 177
+person 161 84 376 558
+person 312 63 639 639

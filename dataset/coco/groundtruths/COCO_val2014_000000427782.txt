@@ -1,0 +1,4 @@
+orange 0 71 296 426
+orange 3 0 158 93
+diningtable 0 20 480 639
+bench 0 10 477 627

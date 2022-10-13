@@ -1,0 +1,4 @@
+cow 80 126 525 263
+motorcycle 9 19 83 270
+motorcycle 408 21 608 489
+cow 6 193 540 608

@@ -1,0 +1,12 @@
+diningtable 0 2 640 353
+cup 0 0 28 178
+spoon 530 149 639 185
+bowl 287 100 545 195
+bowl 227 72 406 127
+spoon 539 137 639 171
+sandwich 4 100 308 279
+sandwich 164 142 464 316
+sandwich 425 49 523 103
+person 170 0 552 66
+sandwich 369 45 441 89
+sandwich 309 39 395 72

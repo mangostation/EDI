@@ -1,0 +1,9 @@
+bottle 100 1 241 293
+bottle 229 2 356 262
+person 402 0 611 122
+cup 25 197 207 318
+carrot 484 525 552 611
+pottedplant 263 41 496 293
+pottedplant 450 36 608 342
+diningtable 0 152 612 611
+carrot 495 499 549 537

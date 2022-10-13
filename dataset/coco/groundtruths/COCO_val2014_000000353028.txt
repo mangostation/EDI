@@ -1,0 +1,6 @@
+cup 546 0 629 57
+fork 11 31 102 159
+knife 1 38 42 206
+pizza 43 19 639 451
+diningtable 2 0 639 472
+spoon 588 0 605 41

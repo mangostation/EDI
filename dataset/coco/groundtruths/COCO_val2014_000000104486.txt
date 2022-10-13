@@ -1,0 +1,7 @@
+person 100 157 193 540
+person 261 133 373 374
+suitcase 243 359 375 545
+backpack 190 480 252 530
+handbag 190 174 270 327
+person 0 242 63 622
+backpack 206 401 245 481

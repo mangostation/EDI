@@ -1,0 +1,5 @@
+diningtable 0 0 640 418
+fork 111 92 213 404
+knife 477 93 563 406
+sandwich 165 201 346 340
+sandwich 212 90 410 231

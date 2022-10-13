@@ -1,0 +1,5 @@
+surfboard 347 281 413 293
+surfboard 503 283 639 310
+person 330 235 352 265
+person 545 234 639 320
+person 331 249 406 289

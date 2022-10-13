@@ -1,0 +1,8 @@
+toothbrush 152 296 181 329
+toothbrush 371 170 439 195
+toothbrush 113 283 129 331
+toothbrush 142 280 165 332
+person 273 19 639 477
+sink 81 395 283 417
+bottle 85 234 114 335
+teddybear 55 118 84 176

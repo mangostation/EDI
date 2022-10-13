@@ -1,0 +1,14 @@
+dog 484 224 518 246
+car 565 194 616 216
+trafficlight 522 102 535 142
+trafficlight 545 112 562 145
+trafficlight 609 142 628 174
+trafficlight 629 142 639 175
+person 469 184 497 248
+person 101 165 139 222
+person 8 192 28 220
+handbag 465 215 470 220
+person 356 199 374 228
+car 615 195 639 219
+trafficlight 561 142 579 171
+trafficlight 530 149 543 168

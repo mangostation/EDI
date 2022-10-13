@@ -1,0 +1,6 @@
+scissors 76 163 194 392
+scissors 120 166 226 388
+cup 74 315 258 543
+spoon 238 276 419 370
+diningtable 0 452 361 640
+spoon 206 211 391 385

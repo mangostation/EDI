@@ -1,0 +1,7 @@
+person 213 25 353 187
+skateboard 191 86 290 184
+skateboard 59 40 110 204
+skateboard 391 0 427 66
+person 403 236 639 421
+person 0 1 86 229
+person 423 0 482 65

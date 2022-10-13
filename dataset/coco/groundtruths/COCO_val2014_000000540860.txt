@@ -1,0 +1,12 @@
+car 421 60 637 127
+car 2 74 47 98
+car 351 69 435 93
+car 308 67 333 91
+bus 44 1 316 152
+trafficlight 22 50 29 60
+pottedplant 0 96 57 140
+pottedplant 511 0 556 55
+car 575 57 639 89
+car 5 154 639 473
+car 0 78 15 103
+trafficlight 439 9 446 22

@@ -1,0 +1,6 @@
+stopsign 61 210 87 240
+trafficlight 60 294 97 381
+trafficlight 43 382 81 409
+parkingmeter 404 494 411 509
+trafficlight 111 383 141 407
+firehydrant 264 552 291 590

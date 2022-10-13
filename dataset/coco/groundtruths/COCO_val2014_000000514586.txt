@@ -1,0 +1,7 @@
+person 56 110 300 499
+person 212 100 330 226
+person 241 101 261 157
+baseballbat 0 9 136 172
+person 0 188 83 305
+car 276 120 312 152
+truck 326 114 354 151

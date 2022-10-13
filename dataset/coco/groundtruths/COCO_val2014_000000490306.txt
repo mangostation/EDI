@@ -1,0 +1,4 @@
+frisbee 174 336 196 440
+person 153 52 318 584
+trafficlight 457 155 467 180
+trafficlight 427 195 430 201

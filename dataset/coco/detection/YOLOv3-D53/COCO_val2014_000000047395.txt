@@ -1,0 +1,6 @@
+trafficlight 0.653644 0 74 52 103
+trafficlight 0.028210 24 79 52 102
+trafficlight 0.027844 0 72 19 96
+trafficlight 0.016569 0 45 45 87
+trafficlight 0.014864 202 1 233 24
+bird 0.010921 27 46 40 57

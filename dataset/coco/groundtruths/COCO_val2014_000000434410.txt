@@ -1,0 +1,5 @@
+bicycle 402 85 497 228
+person 274 73 441 467
+bench 189 262 410 472
+sportsball 592 200 617 224
+bicycle 371 76 406 85

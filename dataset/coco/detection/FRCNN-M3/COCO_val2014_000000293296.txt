@@ -1,0 +1,2 @@
+trafficlight 0.941760 58 585 150 639
+trafficlight 0.908046 1 0 93 79

@@ -1,0 +1,4 @@
+laptop 40 13 354 411
+keyboard 51 317 331 454
+keyboard 75 235 323 322
+chair 310 18 374 247

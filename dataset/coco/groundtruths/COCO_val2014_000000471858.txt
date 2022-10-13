@@ -1,0 +1,4 @@
+motorcycle 44 130 608 465
+person 231 10 375 278
+pottedplant 455 182 460 191
+pottedplant 40 140 186 191

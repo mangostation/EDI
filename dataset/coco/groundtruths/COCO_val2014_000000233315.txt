@@ -1,0 +1,8 @@
+bottle 66 8 85 58
+bottle 80 0 93 47
+person 95 3 352 345
+person 1 48 135 342
+bottle 11 3 38 52
+bottle 40 1 66 58
+bowl 98 7 163 41
+bowl 315 194 369 246

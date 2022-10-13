@@ -1,0 +1,2 @@
+diningtable 2 284 482 325
+scissors 335 34 365 105

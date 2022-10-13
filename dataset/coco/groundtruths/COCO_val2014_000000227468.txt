@@ -1,0 +1,5 @@
+suitcase 204 103 364 315
+backpack 349 93 564 396
+suitcase 361 92 558 398
+handbag 176 0 375 128
+suitcase 3 4 258 404

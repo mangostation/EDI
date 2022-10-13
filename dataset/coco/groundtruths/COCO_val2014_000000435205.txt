@@ -1,0 +1,2 @@
+teddybear 10 95 202 293
+person 27 0 496 329

@@ -1,0 +1,9 @@
+pottedplant 122 169 208 323
+pottedplant 0 255 100 350
+cat 87 48 150 93
+couch 0 77 290 264
+chair 324 135 498 355
+baseballglove 203 219 264 299
+remote 186 217 198 246
+remote 167 220 178 243
+book 88 334 172 369

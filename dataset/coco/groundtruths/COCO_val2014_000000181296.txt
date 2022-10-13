@@ -1,0 +1,5 @@
+car 322 56 436 141
+motorcycle 4 106 639 431
+person 74 48 320 435
+bench 64 100 145 133
+diningtable 77 82 159 103

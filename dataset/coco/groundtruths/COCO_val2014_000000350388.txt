@@ -1,0 +1,5 @@
+bowl 0 1 480 639
+broccoli 213 209 347 326
+broccoli 221 291 369 436
+broccoli 136 293 259 410
+broccoli 92 290 115 318

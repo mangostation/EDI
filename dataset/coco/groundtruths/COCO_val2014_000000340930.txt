@@ -1,0 +1,2 @@
+scissors 1 0 625 474
+scissors 240 70 344 202

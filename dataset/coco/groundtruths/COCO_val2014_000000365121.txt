@@ -1,0 +1,4 @@
+knife 30 4 184 441
+pizza 16 67 588 543
+diningtable 1 1 611 207
+diningtable 491 433 611 599

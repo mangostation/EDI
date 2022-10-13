@@ -1,0 +1,11 @@
+car 395 146 439 162
+motorcycle 4 149 317 343
+motorcycle 54 155 303 267
+motorcycle 281 133 408 254
+motorcycle 426 152 517 203
+person 571 152 603 197
+motorcycle 541 152 577 206
+motorcycle 395 162 418 191
+motorcycle 276 162 411 211
+truck 447 52 561 202
+motorcycle 420 152 489 200

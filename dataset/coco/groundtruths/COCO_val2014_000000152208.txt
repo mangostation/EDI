@@ -1,0 +1,5 @@
+pottedplant 309 301 472 407
+umbrella 300 86 559 152
+bench 302 333 321 357
+bench 482 333 523 361
+pottedplant 328 134 426 299

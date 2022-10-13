@@ -1,0 +1,7 @@
+hotdog 167 257 230 353
+person 5 72 332 493
+person 0 287 45 336
+diningtable 234 168 279 205
+diningtable 276 152 332 219
+diningtable 1 435 24 496
+sandwich 164 256 236 382

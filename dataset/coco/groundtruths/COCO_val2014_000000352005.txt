@@ -1,0 +1,8 @@
+tie 130 325 199 499
+person 0 29 373 489
+person 11 228 86 339
+person 22 227 43 271
+person 1 189 35 238
+person 100 228 117 259
+chair 8 274 28 384
+person 0 225 26 324

@@ -1,0 +1,9 @@
+couch 311 89 449 174
+couch 133 86 192 143
+pottedplant 21 81 58 129
+pottedplant 289 29 344 117
+pottedplant 513 0 539 38
+pottedplant 223 91 229 102
+chair 133 84 192 139
+chair 248 82 295 126
+couch 247 83 295 120

@@ -1,0 +1,5 @@
+couch 5 135 480 456
+cellphone 227 126 250 146
+person 100 38 353 597
+suitcase 0 269 134 345
+suitcase 0 343 164 632

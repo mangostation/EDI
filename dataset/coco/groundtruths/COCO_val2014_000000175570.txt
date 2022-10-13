@@ -1,0 +1,13 @@
+car 509 205 638 361
+car 71 191 113 235
+motorcycle 423 227 503 317
+bus 187 114 522 282
+person 441 199 499 316
+person 2 182 45 287
+trafficlight 553 66 573 113
+trafficlight 475 134 489 153
+car 0 194 6 205
+trafficlight 173 130 183 151
+trafficlight 0 162 9 168
+person 261 163 294 192
+person 246 162 266 194

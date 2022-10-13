@@ -1,0 +1,4 @@
+bowl 454 54 517 83
+microwave 433 71 633 190
+microwave 222 71 434 188
+microwave 1 53 240 185

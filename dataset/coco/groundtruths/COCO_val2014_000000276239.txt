@@ -1,0 +1,5 @@
+person 156 0 509 531
+suitcase 353 459 495 638
+suitcase 497 468 609 635
+suitcase 18 445 207 631
+suitcase 147 440 358 629

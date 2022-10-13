@@ -1,0 +1,4 @@
+donut 49 230 290 425
+person 69 0 426 593
+bowl 1 304 159 590
+diningtable 0 92 427 628

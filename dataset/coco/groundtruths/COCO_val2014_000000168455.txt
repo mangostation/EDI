@@ -1,0 +1,1 @@
+trafficlight 225 171 292 283

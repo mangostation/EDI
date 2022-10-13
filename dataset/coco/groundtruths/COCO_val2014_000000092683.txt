@@ -1,0 +1,9 @@
+chair 15 90 130 196
+chair 231 80 328 155
+chair 456 92 565 188
+diningtable 0 151 638 473
+vase 327 246 382 336
+vase 312 187 342 274
+diningtable 96 1 348 125
+chair 0 30 22 167
+vase 242 219 296 316

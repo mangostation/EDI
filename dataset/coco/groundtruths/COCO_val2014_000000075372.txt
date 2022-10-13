@@ -1,0 +1,6 @@
+person 1 4 139 357
+person 65 0 191 262
+person 172 0 246 82
+giraffe 77 1 639 395
+cup 68 427 101 440
+person 1 180 72 477

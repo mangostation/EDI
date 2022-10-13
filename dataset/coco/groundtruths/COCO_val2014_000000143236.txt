@@ -1,0 +1,4 @@
+diningtable 1 0 638 511
+bowl 321 28 592 279
+carrot 125 134 145 159
+carrot 49 12 248 241

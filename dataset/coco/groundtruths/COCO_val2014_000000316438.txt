@@ -1,0 +1,4 @@
+person 346 0 639 166
+bowl 64 0 345 80
+pizza 0 117 463 422
+diningtable 2 2 639 420

@@ -1,0 +1,8 @@
+person 3 319 253 471
+pizza 256 70 436 167
+cup 32 0 101 54
+fork 303 0 422 37
+knife 132 1 269 161
+spoon 598 91 639 126
+person 163 0 271 47
+diningtable 0 1 639 473

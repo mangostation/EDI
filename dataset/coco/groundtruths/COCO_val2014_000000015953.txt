@@ -1,0 +1,3 @@
+apple 0 56 271 363
+diningtable 1 0 479 628
+cake 204 268 445 509

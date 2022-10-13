@@ -1,0 +1,17 @@
+pottedplant 500 185 522 231
+pottedplant 230 189 292 246
+pottedplant 191 178 229 255
+pottedplant 522 173 545 209
+boat 54 96 554 342
+person 590 97 601 130
+person 597 96 616 132
+pottedplant 273 134 285 161
+pottedplant 210 160 245 225
+pottedplant 361 96 385 135
+pottedplant 283 136 296 152
+pottedplant 294 133 305 151
+pottedplant 512 182 534 223
+pottedplant 534 171 559 211
+boat 480 94 572 166
+pottedplant 277 200 293 241
+pottedplant 128 106 365 251

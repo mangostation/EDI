@@ -1,0 +1,7 @@
+apple 260 425 359 504
+apple 291 384 408 486
+cup 219 1 306 136
+carrot 255 348 299 388
+person 2 0 179 87
+carrot 273 381 326 423
+diningtable 0 60 478 638

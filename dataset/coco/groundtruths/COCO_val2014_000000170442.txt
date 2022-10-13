@@ -1,0 +1,7 @@
+bed 0 210 609 474
+cellphone 242 338 253 343
+backpack 106 260 163 321
+suitcase 4 335 68 377
+remote 232 343 246 356
+cellphone 232 344 246 356
+chair 53 257 199 362

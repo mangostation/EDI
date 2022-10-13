@@ -1,0 +1,5 @@
+person 40 85 374 491
+scissors 130 167 321 360
+backpack 126 374 306 497
+handbag 161 374 344 499
+handbag 126 384 298 494

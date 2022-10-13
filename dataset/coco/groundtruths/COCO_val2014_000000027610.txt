@@ -1,0 +1,8 @@
+person 250 74 582 420
+person 162 124 316 341
+person 0 47 202 425
+cellphone 329 377 384 400
+cellphone 247 285 269 317
+bicycle 363 59 469 170
+bicycle 148 200 200 304
+person 462 53 639 425

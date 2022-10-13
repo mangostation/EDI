@@ -1,0 +1,12 @@
+teddybear 50 194 131 269
+teddybear 142 178 210 230
+teddybear 203 191 276 271
+teddybear 276 193 330 286
+teddybear 207 242 273 283
+teddybear 312 223 347 251
+teddybear 295 246 379 289
+teddybear 339 208 391 280
+teddybear 201 67 293 199
+teddybear 285 258 317 279
+teddybear 155 223 206 260
+teddybear 129 230 157 264

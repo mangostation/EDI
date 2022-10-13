@@ -1,0 +1,7 @@
+diningtable 1 1 638 474
+wineglass 8 1 102 143
+fork 162 59 227 127
+spoon 357 0 465 36
+bowl 221 0 401 110
+hotdog 220 158 562 360
+hotdog 130 124 281 234

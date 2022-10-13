@@ -1,0 +1,6 @@
+toothbrush 267 383 312 399
+toothbrush 153 326 173 340
+person 185 113 365 472
+person 339 157 505 478
+person 425 164 623 476
+person 15 77 195 474

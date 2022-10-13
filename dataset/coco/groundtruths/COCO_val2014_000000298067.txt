@@ -1,0 +1,6 @@
+bottle 124 0 329 574
+diningtable 23 120 365 611
+diningtable 269 57 603 601
+cup 4 99 108 576
+bowl 287 195 463 475
+cup 292 196 466 474

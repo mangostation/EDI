@@ -1,0 +1,6 @@
+diningtable 0 22 425 632
+person 212 0 425 182
+sandwich 60 270 388 581
+cup 228 122 403 376
+person 0 0 79 214
+hotdog 54 266 396 579

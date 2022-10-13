@@ -1,0 +1,8 @@
+person 152 108 466 551
+baseballbat 359 367 439 455
+baseballbat 599 241 638 348
+baseballbat 406 239 443 347
+bench 55 233 132 282
+bench 378 234 502 329
+baseballbat 377 238 407 354
+bench 124 225 180 325

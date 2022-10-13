@@ -1,0 +1,12 @@
+couch 0 152 432 335
+person 152 95 343 367
+person 1 58 192 364
+handbag 208 186 348 232
+handbag 32 150 92 208
+person 0 80 52 205
+person 424 74 499 374
+handbag 445 166 499 244
+handbag 371 127 470 270
+cellphone 72 106 105 130
+handbag 0 137 45 192
+handbag 1 293 123 372

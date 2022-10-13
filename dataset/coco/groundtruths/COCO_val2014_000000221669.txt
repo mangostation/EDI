@@ -1,0 +1,10 @@
+bottle 58 561 69 594
+person 0 64 339 472
+person 161 552 228 632
+person 0 484 63 639
+person 79 465 178 630
+person 0 396 44 509
+skateboard 237 427 388 527
+person 384 554 423 599
+person 331 475 400 597
+backpack 0 419 29 479

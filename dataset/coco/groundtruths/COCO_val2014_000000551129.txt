@@ -1,0 +1,5 @@
+diningtable 1 2 626 467
+pizza 176 199 503 473
+pizza 266 20 497 171
+pizza 392 151 604 280
+hotdog 1 6 265 297

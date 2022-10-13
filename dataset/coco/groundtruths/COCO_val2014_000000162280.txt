@@ -1,0 +1,6 @@
+toothbrush 390 349 398 362
+toothbrush 416 333 428 351
+sink 303 362 479 439
+vase 7 386 34 447
+bowl 399 349 425 380
+pottedplant 2 356 121 488

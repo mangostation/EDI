@@ -1,0 +1,6 @@
+chair 1 212 132 472
+couch 249 187 639 393
+diningtable 0 221 244 419
+car 560 10 603 28
+vase 104 178 142 237
+wineglass 134 203 154 247

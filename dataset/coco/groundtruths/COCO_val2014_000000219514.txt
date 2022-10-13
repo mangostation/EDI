@@ -1,0 +1,2 @@
+truck 53 357 276 392
+trafficlight 170 11 263 144

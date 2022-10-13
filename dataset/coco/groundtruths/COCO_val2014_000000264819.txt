@@ -1,0 +1,5 @@
+person 241 360 369 506
+snowboard 286 366 419 632
+person 55 275 59 282
+person 33 289 71 300
+bench 36 243 89 302

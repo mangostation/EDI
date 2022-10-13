@@ -1,0 +1,9 @@
+pottedplant 3 245 59 342
+bus 276 173 582 392
+person 414 235 431 253
+person 375 232 405 263
+person 522 235 536 267
+person 392 231 407 251
+trafficlight 503 83 524 113
+bus 208 213 291 321
+trafficlight 481 85 500 117

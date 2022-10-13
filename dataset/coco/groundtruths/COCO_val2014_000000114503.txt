@@ -1,0 +1,15 @@
+bottle 293 143 360 315
+bottle 345 115 408 282
+bottle 382 96 428 256
+bottle 448 95 529 155
+bottle 530 114 599 313
+teddybear 71 27 353 442
+bottle 0 85 90 231
+bottle 490 0 599 91
+bottle 543 83 599 118
+bottle 405 78 444 204
+bottle 323 0 414 77
+bottle 263 0 322 54
+bottle 197 13 207 23
+bottle 426 65 458 160
+bottle 0 0 567 372

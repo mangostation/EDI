@@ -1,0 +1,9 @@
+chair 234 209 498 364
+person 37 2 311 263
+cake 247 272 292 324
+diningtable 0 203 606 420
+person 270 89 419 329
+bottle 33 202 92 302
+pizza 313 244 378 272
+cake 0 15 15 46
+cake 0 0 38 30

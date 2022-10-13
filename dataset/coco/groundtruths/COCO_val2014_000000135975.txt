@@ -1,0 +1,8 @@
+person 562 2 639 147
+teddybear 201 75 455 409
+suitcase 364 202 639 473
+suitcase 42 168 261 236
+suitcase 2 104 123 189
+suitcase 390 140 639 214
+suitcase 1 232 362 474
+pottedplant 510 0 583 137

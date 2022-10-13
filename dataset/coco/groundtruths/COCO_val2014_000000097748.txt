@@ -1,0 +1,4 @@
+person 80 156 245 456
+elephant 67 312 346 632
+handbag 169 213 254 366
+elephant 80 324 197 423

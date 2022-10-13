@@ -1,0 +1,5 @@
+pottedplant 161 121 322 423
+bench 456 239 639 425
+pottedplant 311 205 451 392
+car 357 0 445 41
+car 257 17 272 25

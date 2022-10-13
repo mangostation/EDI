@@ -1,0 +1,14 @@
+bottle 481 32 552 236
+bottle 591 81 639 223
+sandwich 43 34 341 473
+wineglass 323 5 362 97
+wineglass 14 0 43 79
+wineglass 107 2 141 83
+wineglass 124 0 158 78
+wineglass 360 0 385 69
+bowl 13 77 80 111
+wineglass 335 0 355 9
+wineglass 374 31 396 73
+handbag 392 281 454 337
+diningtable 0 39 467 471
+bottle 395 0 432 107

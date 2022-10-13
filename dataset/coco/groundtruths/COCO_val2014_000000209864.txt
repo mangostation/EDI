@@ -1,0 +1,3 @@
+umbrella 62 52 228 195
+person 76 186 418 315
+elephant 0 264 575 426
