@@ -1,4 +1,9 @@
 from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import VotingClassifier
+from sklearn.feature_selection import SelectKBest
 from tools.io import Object
 import itertools
 import copy
@@ -17,14 +22,27 @@ class EDI:
             for cluster in clusters:
                 _X.append(cluster.vectorize())
                 _y.append(find_match(y[fname], cluster.repr))
-        self.clf = LogisticRegression().fit(_X, _y)
+        # print(len(_X[0]))
+        self.sl = SelectKBest(k=3)
+        _X = self.sl.fit_transform(_X, _y)
+        print(_y)
+        self.clf = LogisticRegression().fit(_X, _y) # 70.54%
+        # self.clf = GaussianNB().fit(_X, _y) # 70.51%
+        # clf1 = LogisticRegression()
+        # clf2 = RandomForestClassifier()
+        # clf3 = GaussianNB()
+        # self.clf = VotingClassifier(estimators=[('lr', clf1), ('rf', clf2), ('gnb', clf3)], voting='soft').fit(_X, _y) # 70.33%
+        # self.clf = GradientBoostingClassifier().fit(_X, _y) # 70.53%
+        # self.clf = RandomForestClassifier().fit(_X, _y) # 69.07%
         return self
 
     def detect(self, x):
         res = []
         clusters = fusion(dataset=self.dataset, team=self.team, ensemble=x)
         for cluster in clusters:
-            cluster_objectness = self.clf.predict_proba([cluster.vectorize()])[0, 1]
+            Xt = self.sl.transform([cluster.vectorize()])
+            cluster_objectness = self.clf.predict_proba(Xt)[0, 1]
+            # cluster_objectness = self.clf.predict_proba([cluster.vectorize()])[0, 1]
             detected_object = copy.deepcopy(cluster.repr)
             detected_object.confidence = detected_object.confidence * cluster_objectness
             res.append(detected_object)

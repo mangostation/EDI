@@ -1,4 +1,4 @@
-from core.edi import EDI
+from core.oden import EDI
 from tools.io import load_detection_results
 from tools.evaluate import evaluate
 import random
